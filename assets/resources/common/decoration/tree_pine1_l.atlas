@@ -1,0 +1,12 @@
+
+tree_pine1_l-1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tree1-edit
+  rotate: false
+  xy: 2, 2
+  size: 163, 260
+  orig: 163, 260
+  offset: 0, 0
+  index: -1

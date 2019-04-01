@@ -1,0 +1,19 @@
+
+uncle_house-1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+smoke
+  rotate: false
+  xy: 461, 307
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+uncle_house
+  rotate: true
+  xy: 2, 2
+  size: 364, 457
+  orig: 364, 457
+  offset: 0, 0
+  index: -1

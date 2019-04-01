@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "91757789-301f-455d-b2ec-5bcacab2e8f1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "animal_levelup_a": {
+      "ver": "1.0.3",
+      "uuid": "3050958a-3008-45a9-b70c-590b74727717",
+      "rawTextureUuid": "91757789-301f-455d-b2ec-5bcacab2e8f1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 219,
+      "height": 174,
+      "rawWidth": 223,
+      "rawHeight": 178,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

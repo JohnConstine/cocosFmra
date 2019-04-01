@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "3290d8c4-f061-4df5-8e0c-cdeaa54d950a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "training_gym_5": {
+      "ver": "1.0.3",
+      "uuid": "f7de9bf5-29a2-48e4-b2fb-67ac87f3175f",
+      "rawTextureUuid": "3290d8c4-f061-4df5-8e0c-cdeaa54d950a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -86,
+      "offsetY": 67,
+      "trimX": 4,
+      "trimY": 2,
+      "width": 332,
+      "height": 374,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

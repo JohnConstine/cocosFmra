@@ -1,0 +1,26 @@
+
+signal.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wifi1
+  rotate: false
+  xy: 299, 34
+  size: 53, 41
+  orig: 53, 41
+  offset: 0, 0
+  index: -1
+wifi2
+  rotate: false
+  xy: 183, 17
+  size: 114, 58
+  orig: 114, 58
+  offset: 0, 0
+  index: -1
+wifi3
+  rotate: false
+  xy: 2, 2
+  size: 179, 73
+  orig: 179, 73
+  offset: 0, 0
+  index: -1

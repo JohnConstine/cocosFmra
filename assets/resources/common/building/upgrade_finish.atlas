@@ -1,0 +1,19 @@
+
+upgrade_finish.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+foon
+  rotate: false
+  xy: 42, 5
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 2, 2
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1

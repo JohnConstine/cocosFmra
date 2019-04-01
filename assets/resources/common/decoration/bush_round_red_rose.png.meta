@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "2887fa12-36fd-472a-8085-6a56f19de1bd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "bush_round_red_rose": {
+      "ver": "1.0.3",
+      "uuid": "a134ab09-995a-4a72-9ec5-d905650979b4",
+      "rawTextureUuid": "2887fa12-36fd-472a-8085-6a56f19de1bd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 182,
+      "height": 211,
+      "rawWidth": 186,
+      "rawHeight": 215,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

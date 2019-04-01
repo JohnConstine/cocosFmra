@@ -1,0 +1,12 @@
+
+bush_square.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bush_square
+  rotate: false
+  xy: 2, 2
+  size: 214, 198
+  orig: 218, 202
+  offset: 2, 2
+  index: -1

@@ -1,0 +1,12 @@
+
+animal_barn_2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+animal_barn
+  rotate: false
+  xy: 2, 2
+  size: 338, 374
+  orig: 338, 380
+  offset: 0, 0
+  index: -1

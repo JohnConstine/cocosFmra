@@ -1,0 +1,145 @@
+
+connect_track_tutor.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_tutorial_cursor
+  rotate: true
+  xy: 350, 7
+  size: 100, 119
+  orig: 100, 119
+  offset: 0, 0
+  index: -1
+button_add_track
+  rotate: false
+  xy: 659, 87
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+button_changedirection_start
+  rotate: false
+  xy: 761, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+button_changedirection_track
+  rotate: false
+  xy: 761, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+button_delete_track
+  rotate: false
+  xy: 863, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+button_start
+  rotate: false
+  xy: 863, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+button_track_mode
+  rotate: false
+  xy: 659, 445
+  size: 220, 64
+  orig: 221, 64
+  offset: 0, 0
+  index: -1
+click
+  rotate: false
+  xy: 809, 206
+  size: 112, 112
+  orig: 113, 113
+  offset: 1, 0
+  index: -1
+effect_star
+  rotate: true
+  xy: 471, 3
+  size: 179, 186
+  orig: 200, 200
+  offset: 10, 9
+  index: -1
+glow_square_stroke
+  rotate: false
+  xy: 659, 326
+  size: 148, 117
+  orig: 148, 117
+  offset: 0, 0
+  index: -1
+no
+  rotate: true
+  xy: 733, 249
+  size: 75, 74
+  orig: 75, 74
+  offset: 0, 0
+  index: -1
+track_dirt1
+  rotate: false
+  xy: 2, 2
+  size: 135, 105
+  orig: 135, 105
+  offset: 0, 0
+  index: -1
+track_dirt2
+  rotate: true
+  xy: 2, 109
+  size: 400, 363
+  orig: 400, 363
+  offset: 0, 0
+  index: -1
+track_dirt3
+  rotate: true
+  xy: 367, 184
+  size: 325, 272
+  orig: 325, 272
+  offset: 0, 0
+  index: -1
+track_dirt4
+  rotate: false
+  xy: 809, 320
+  size: 135, 88
+  orig: 135, 105
+  offset: 0, 1
+  index: -1
+track_dirt5
+  rotate: false
+  xy: 139, 2
+  size: 121, 105
+  orig: 135, 105
+  offset: 14, 0
+  index: -1
+track_dirt6
+  rotate: true
+  xy: 641, 189
+  size: 135, 90
+  orig: 135, 105
+  offset: 0, 15
+  index: -1
+track_start
+  rotate: false
+  xy: 367, 116
+  size: 85, 66
+  orig: 135, 105
+  offset: 26, 19
+  index: -1
+tutorial_finger_drag
+  rotate: true
+  xy: 881, 410
+  size: 99, 92
+  orig: 100, 100
+  offset: 1, 0
+  index: -1
+yes
+  rotate: true
+  xy: 262, 2
+  size: 105, 86
+  orig: 112, 99
+  offset: 4, 7
+  index: -1

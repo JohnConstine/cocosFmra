@@ -1,0 +1,12 @@
+
+statuehorse1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+statuehorse1
+  rotate: false
+  xy: 2, 2
+  size: 194, 381
+  orig: 198, 385
+  offset: 2, 2
+  index: -1

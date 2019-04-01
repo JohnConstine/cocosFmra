@@ -1,0 +1,12 @@
+
+flower_patch_violet.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flower_patch_violet
+  rotate: false
+  xy: 2, 2
+  size: 204, 188
+  orig: 204, 188
+  offset: 0, 0
+  index: -1

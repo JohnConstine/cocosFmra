@@ -1,0 +1,37 @@
+{
+  "collision-matrix": [
+    [
+      true,
+      true,
+      false
+    ],
+    [
+      true,
+      true,
+      false
+    ],
+    [
+      false,
+      false,
+      true
+    ]
+  ],
+  "excluded-modules": [],
+  "group-list": [
+    "default",
+    "shopMall",
+    "warehouse"
+  ],
+  "start-scene": "current",
+  "design-resolution-width": 960,
+  "design-resolution-height": 640,
+  "fit-width": false,
+  "fit-height": true,
+  "use-project-simulator-setting": false,
+  "simulator-orientation": false,
+  "use-customize-simulator": false,
+  "simulator-resolution": {
+    "width": 960,
+    "height": 640
+  }
+}

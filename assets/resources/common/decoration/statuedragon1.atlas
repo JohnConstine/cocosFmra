@@ -1,0 +1,12 @@
+
+statuedragon1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+statuedragon1
+  rotate: false
+  xy: 2, 2
+  size: 264, 348
+  orig: 268, 352
+  offset: 2, 2
+  index: -1

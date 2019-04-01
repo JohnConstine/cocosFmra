@@ -1,0 +1,12 @@
+
+item_barn_1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+item_barn
+  rotate: false
+  xy: 2, 2
+  size: 280, 340
+  orig: 280, 346
+  offset: 0, 0
+  index: -1

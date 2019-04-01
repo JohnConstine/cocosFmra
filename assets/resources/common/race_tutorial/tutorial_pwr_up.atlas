@@ -1,0 +1,117 @@
+
+tutorial_pwr_up.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_banana
+  rotate: false
+  xy: 129, 31
+  size: 77, 69
+  orig: 82, 82
+  offset: 4, 9
+  index: -1
+bullet
+  rotate: true
+  xy: 2, 334
+  size: 430, 157
+  orig: 430, 157
+  offset: 0, 0
+  index: -1
+cheetah1
+  rotate: false
+  xy: 376, 320
+  size: 233, 196
+  orig: 249, 207
+  offset: 4, 3
+  index: -1
+cheetah2
+  rotate: false
+  xy: 2, 102
+  size: 216, 210
+  orig: 230, 224
+  offset: 3, 6
+  index: -1
+cheetah3
+  rotate: false
+  xy: 389, 127
+  size: 205, 191
+  orig: 220, 197
+  offset: 11, 2
+  index: -1
+cheetah4
+  rotate: true
+  xy: 220, 103
+  size: 209, 167
+  orig: 213, 173
+  offset: 2, 3
+  index: -1
+dash_fx
+  rotate: true
+  xy: 396, 755
+  size: 256, 269
+  orig: 257, 269
+  offset: 0, 0
+  index: -1
+dash_fx2
+  rotate: true
+  xy: 667, 755
+  size: 256, 269
+  orig: 257, 269
+  offset: 0, 0
+  index: -1
+dragon1
+  rotate: true
+  xy: 161, 520
+  size: 244, 214
+  orig: 251, 228
+  offset: 5, 5
+  index: -1
+dragon1_2
+  rotate: false
+  xy: 377, 518
+  size: 238, 235
+  orig: 241, 243
+  offset: 2, 3
+  index: -1
+dragon2
+  rotate: false
+  xy: 161, 314
+  size: 213, 204
+  orig: 229, 223
+  offset: 11, 13
+  index: -1
+dragon3
+  rotate: false
+  xy: 617, 562
+  size: 250, 191
+  orig: 252, 201
+  offset: 1, 7
+  index: -1
+hit_fx
+  rotate: false
+  xy: 869, 628
+  size: 116, 125
+  orig: 117, 126
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 938, 846
+  size: 165, 78
+  orig: 165, 78
+  offset: 0, 0
+  index: -1
+shockwave_fx
+  rotate: false
+  xy: 2, 2
+  size: 125, 98
+  orig: 125, 98
+  offset: 0, 0
+  index: -1
+track_bg
+  rotate: false
+  xy: 2, 766
+  size: 392, 245
+  orig: 392, 245
+  offset: 0, 0
+  index: -1

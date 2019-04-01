@@ -1,0 +1,12 @@
+
+tree_winter_dec_2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tree_winter_dec_2
+  rotate: false
+  xy: 2, 2
+  size: 173, 291
+  orig: 177, 295
+  offset: 2, 2
+  index: -1

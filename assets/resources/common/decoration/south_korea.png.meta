@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "4655cd1b-1237-4661-9d84-eb5932d67fe5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "south_korea": {
+      "ver": "1.0.3",
+      "uuid": "d403c482-51fb-4fc9-bccc-97734b06f4ea",
+      "rawTextureUuid": "4655cd1b-1237-4661-9d84-eb5932d67fe5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 985,
+      "height": 69,
+      "rawWidth": 989,
+      "rawHeight": 73,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

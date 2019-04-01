@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "0b6efe30-1c47-4baf-9554-c147ca5c08a6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "statuedeer1": {
+      "ver": "1.0.3",
+      "uuid": "e018b18d-23e6-4880-8afd-255495b7a9f1",
+      "rawTextureUuid": "0b6efe30-1c47-4baf-9554-c147ca5c08a6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 193,
+      "height": 291,
+      "rawWidth": 197,
+      "rawHeight": 296,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,89 @@
+
+horse1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cow/cow_l1_sprite/eye_blink
+  rotate: false
+  xy: 42, 21
+  size: 40, 7
+  orig: 40, 7
+  offset: 0, 0
+  index: -1
+cow/cow_l1_sprite/eye_hurt
+  rotate: true
+  xy: 165, 80
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+cow/cow_l1_sprite/shadow
+  rotate: false
+  xy: 142, 211
+  size: 83, 39
+  orig: 83, 39
+  offset: 0, 0
+  index: -1
+horse/horse_sprite/body
+  rotate: false
+  xy: 2, 30
+  size: 113, 83
+  orig: 115, 84
+  offset: 1, 1
+  index: -1
+horse/horse_sprite/ear
+  rotate: true
+  xy: 142, 114
+  size: 38, 53
+  orig: 39, 54
+  offset: 0, 1
+  index: -1
+horse/horse_sprite/eye_l
+  rotate: false
+  xy: 202, 160
+  size: 46, 43
+  orig: 46, 43
+  offset: 0, 0
+  index: -1
+horse/horse_sprite/eye_sad
+  rotate: false
+  xy: 117, 69
+  size: 46, 43
+  orig: 46, 43
+  offset: 0, 0
+  index: -1
+horse/horse_sprite/head
+  rotate: false
+  xy: 2, 115
+  size: 138, 135
+  orig: 139, 136
+  offset: 0, 1
+  index: -1
+horse/horse_sprite/leg_lower
+  rotate: false
+  xy: 227, 205
+  size: 27, 45
+  orig: 27, 45
+  offset: 0, 0
+  index: -1
+horse/horse_sprite/leg_upper
+  rotate: true
+  xy: 2, 2
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+horse/horse_sprite/nose
+  rotate: false
+  xy: 117, 30
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+horse/horse_sprite/tail
+  rotate: false
+  xy: 142, 154
+  size: 58, 55
+  orig: 62, 56
+  offset: 3, 1
+  index: -1

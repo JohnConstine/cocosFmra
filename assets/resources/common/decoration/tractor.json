@@ -1,0 +1,1 @@
+{"bones":[{"name":"root"},{"name":"bone","parent":"root","length":283.29,"rotation":90}],"slots":[{"name":"tractor","bone":"bone","attachment":"tractor"}],"skins":{"default":{"tractor":{"tractor":{"x":10.26,"y":0.85,"rotation":-90,"width":340,"height":308}}}},"animations":{"idle":{}}}

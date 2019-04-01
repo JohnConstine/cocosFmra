@@ -1,0 +1,1 @@
+{"bones":[{"name":"root"}],"slots":[{"name":"stone_path","bone":"root","attachment":"stone_path"}],"skins":{"default":{"stone_path":{"stone_path":{"x":1.92,"y":2.09,"width":110,"height":85}}}},"animations":{"idle":{}}}

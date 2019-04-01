@@ -1,0 +1,12 @@
+
+training_gym_5.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gym5
+  rotate: false
+  xy: 2, 2
+  size: 335, 375
+  orig: 335, 375
+  offset: 0, 0
+  index: -1

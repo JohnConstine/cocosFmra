@@ -1,0 +1,271 @@
+
+merrygoround.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flag0000
+  rotate: true
+  xy: 782, 522
+  size: 72, 65
+  orig: 76, 73
+  offset: 4, 1
+  index: -1
+flag0001
+  rotate: false
+  xy: 367, 10
+  size: 71, 67
+  orig: 76, 73
+  offset: 5, 1
+  index: -1
+flag0002
+  rotate: false
+  xy: 225, 2
+  size: 69, 69
+  orig: 76, 73
+  offset: 7, 0
+  index: -1
+flag0003
+  rotate: true
+  xy: 659, 9
+  size: 68, 70
+  orig: 76, 73
+  offset: 8, 0
+  index: -1
+flag0004
+  rotate: true
+  xy: 440, 10
+  size: 67, 71
+  orig: 76, 73
+  offset: 9, 0
+  index: -1
+flag0005
+  rotate: true
+  xy: 513, 10
+  size: 67, 71
+  orig: 76, 73
+  offset: 9, 0
+  index: -1
+flag0006
+  rotate: true
+  xy: 586, 10
+  size: 67, 71
+  orig: 76, 73
+  offset: 9, 0
+  index: -1
+flag0007
+  rotate: false
+  xy: 296, 2
+  size: 69, 69
+  orig: 76, 73
+  offset: 7, 0
+  index: -1
+flag0008
+  rotate: false
+  xy: 782, 748
+  size: 71, 68
+  orig: 76, 73
+  offset: 5, 0
+  index: -1
+flag0009
+  rotate: false
+  xy: 782, 818
+  size: 73, 67
+  orig: 76, 73
+  offset: 3, 0
+  index: -1
+flag0010
+  rotate: true
+  xy: 782, 672
+  size: 74, 65
+  orig: 76, 73
+  offset: 2, 1
+  index: -1
+flag0011
+  rotate: true
+  xy: 782, 596
+  size: 74, 65
+  orig: 76, 73
+  offset: 2, 1
+  index: -1
+merry0000
+  rotate: false
+  xy: 2, 418
+  size: 221, 99
+  orig: 221, 99
+  offset: 0, 0
+  index: -1
+merry0001
+  rotate: false
+  xy: 336, 786
+  size: 221, 99
+  orig: 221, 99
+  offset: 0, 0
+  index: -1
+merry0002
+  rotate: false
+  xy: 2, 317
+  size: 221, 99
+  orig: 221, 99
+  offset: 0, 0
+  index: -1
+merry0003
+  rotate: false
+  xy: 336, 685
+  size: 221, 99
+  orig: 221, 99
+  offset: 0, 0
+  index: -1
+merry0004
+  rotate: false
+  xy: 559, 786
+  size: 221, 99
+  orig: 221, 99
+  offset: 0, 0
+  index: -1
+merry0005
+  rotate: false
+  xy: 2, 216
+  size: 221, 99
+  orig: 221, 99
+  offset: 0, 0
+  index: -1
+merry0006
+  rotate: true
+  xy: 225, 296
+  size: 221, 99
+  orig: 221, 99
+  offset: 0, 0
+  index: -1
+merry0007
+  rotate: false
+  xy: 336, 584
+  size: 221, 99
+  orig: 221, 99
+  offset: 0, 0
+  index: -1
+merry0008
+  rotate: false
+  xy: 559, 685
+  size: 221, 99
+  orig: 221, 99
+  offset: 0, 0
+  index: -1
+merry0009
+  rotate: false
+  xy: 2, 115
+  size: 221, 99
+  orig: 221, 99
+  offset: 0, 0
+  index: -1
+merry0010
+  rotate: false
+  xy: 559, 584
+  size: 221, 99
+  orig: 221, 99
+  offset: 0, 0
+  index: -1
+merry0011
+  rotate: false
+  xy: 2, 14
+  size: 221, 99
+  orig: 221, 99
+  offset: 0, 0
+  index: -1
+merry0012
+  rotate: true
+  xy: 225, 73
+  size: 221, 99
+  orig: 221, 99
+  offset: 0, 0
+  index: -1
+merry0013
+  rotate: false
+  xy: 336, 483
+  size: 221, 99
+  orig: 221, 99
+  offset: 0, 0
+  index: -1
+merry0014
+  rotate: false
+  xy: 559, 483
+  size: 221, 99
+  orig: 221, 99
+  offset: 0, 0
+  index: -1
+merry0015
+  rotate: false
+  xy: 326, 382
+  size: 221, 99
+  orig: 221, 99
+  offset: 0, 0
+  index: -1
+merry0016
+  rotate: false
+  xy: 326, 281
+  size: 221, 99
+  orig: 221, 99
+  offset: 0, 0
+  index: -1
+merry0017
+  rotate: false
+  xy: 549, 382
+  size: 221, 99
+  orig: 221, 99
+  offset: 0, 0
+  index: -1
+merry0018
+  rotate: false
+  xy: 326, 180
+  size: 221, 99
+  orig: 221, 99
+  offset: 0, 0
+  index: -1
+merry0019
+  rotate: false
+  xy: 549, 281
+  size: 221, 99
+  orig: 221, 99
+  offset: 0, 0
+  index: -1
+merry0020
+  rotate: false
+  xy: 326, 79
+  size: 221, 99
+  orig: 221, 99
+  offset: 0, 0
+  index: -1
+merry0021
+  rotate: false
+  xy: 549, 180
+  size: 221, 99
+  orig: 221, 99
+  offset: 0, 0
+  index: -1
+merry0022
+  rotate: false
+  xy: 549, 79
+  size: 221, 99
+  orig: 221, 99
+  offset: 0, 0
+  index: -1
+merry0023
+  rotate: true
+  xy: 772, 260
+  size: 221, 99
+  orig: 221, 99
+  offset: 0, 0
+  index: -1
+merry0024
+  rotate: true
+  xy: 772, 37
+  size: 221, 99
+  orig: 221, 99
+  offset: 0, 0
+  index: -1
+merrygoround
+  rotate: false
+  xy: 2, 519
+  size: 332, 366
+  orig: 342, 367
+  offset: 3, 1
+  index: -1

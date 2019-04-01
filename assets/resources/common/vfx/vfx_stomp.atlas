@@ -1,0 +1,26 @@
+
+vfx_stomp.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+vfx_circular_a
+  rotate: false
+  xy: 2, 2
+  size: 369, 287
+  orig: 480, 339
+  offset: 54, 34
+  index: -1
+vfx_circular_b
+  rotate: false
+  xy: 373, 48
+  size: 310, 241
+  orig: 350, 250
+  offset: 25, 3
+  index: -1
+vfx_circular_ring
+  rotate: true
+  xy: 685, 7
+  size: 282, 225
+  orig: 312, 248
+  offset: 15, 12
+  index: -1

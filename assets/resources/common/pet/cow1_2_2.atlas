@@ -1,0 +1,117 @@
+
+cow1_2_2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cow/cow.1.2.2_sprite/body
+  rotate: false
+  xy: 2, 11
+  size: 118, 89
+  orig: 119, 91
+  offset: 0, 1
+  index: -1
+cow/cow.1.2.2_sprite/ear_l
+  rotate: false
+  xy: 241, 199
+  size: 52, 46
+  orig: 52, 48
+  offset: 0, 1
+  index: -1
+cow/cow.1.2.2_sprite/ear_r
+  rotate: false
+  xy: 241, 154
+  size: 49, 43
+  orig: 51, 44
+  offset: 1, 1
+  index: -1
+cow/cow.1.2.2_sprite/eye_l_sad
+  rotate: true
+  xy: 409, 204
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+cow/cow.1.2.2_sprite/eye_r_sad
+  rotate: false
+  xy: 122, 17
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+cow/cow.1.2.2_sprite/hair_forehead
+  rotate: false
+  xy: 140, 160
+  size: 99, 85
+  orig: 102, 87
+  offset: 1, 1
+  index: -1
+cow/cow.1.2.2_sprite/head
+  rotate: false
+  xy: 2, 102
+  size: 136, 143
+  orig: 136, 144
+  offset: 0, 1
+  index: -1
+cow/cow.1.2.2_sprite/leg_lower
+  rotate: false
+  xy: 122, 57
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+cow/cow.1.2.2_sprite/leg_upper
+  rotate: true
+  xy: 225, 128
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+cow/cow.1.2.2_sprite/nose
+  rotate: false
+  xy: 295, 204
+  size: 53, 41
+  orig: 53, 41
+  offset: 0, 0
+  index: -1
+cow/cow.1.2.2_sprite/tail
+  rotate: true
+  xy: 350, 211
+  size: 34, 57
+  orig: 35, 58
+  offset: 0, 1
+  index: -1
+cow/cow_l1_sprite/eye
+  rotate: true
+  xy: 457, 204
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+cow/cow_l1_sprite/eye_blink
+  rotate: false
+  xy: 2, 2
+  size: 40, 7
+  orig: 40, 7
+  offset: 0, 0
+  index: -1
+cow/cow_l1_sprite/eye_hurt
+  rotate: false
+  xy: 266, 127
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+cow/cow_l1_sprite/eye_r
+  rotate: false
+  xy: 150, 80
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+cow/cow_l1_sprite/shadow
+  rotate: false
+  xy: 140, 119
+  size: 83, 39
+  orig: 83, 39
+  offset: 0, 0
+  index: -1

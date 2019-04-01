@@ -1,0 +1,12 @@
+
+statuedeer1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+statuedeer1
+  rotate: false
+  xy: 2, 2
+  size: 193, 292
+  orig: 197, 296
+  offset: 2, 2
+  index: -1

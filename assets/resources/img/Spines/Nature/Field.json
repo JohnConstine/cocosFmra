@@ -1,0 +1,1 @@
+{"bones":[{"name":"root","scaleX":0.5,"scaleY":0.5}],"slots":[{"name":"Field","bone":"root","attachment":"Field"}],"skins":{"default":{"Field":{"Field":{"width":251,"height":130}}}},"animations":{"animation":{}}}

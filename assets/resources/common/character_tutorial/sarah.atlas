@@ -1,0 +1,55 @@
+
+sarah.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Girl_Happy
+  rotate: false
+  xy: 2, 2
+  size: 601, 994
+  orig: 601, 995
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 605, 909
+  size: 344, 87
+  orig: 344, 87
+  offset: 0, 0
+  index: -1
+
+sarah2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Girl_Normal
+  rotate: false
+  xy: 2, 2
+  size: 605, 987
+  orig: 605, 988
+  offset: 0, 0
+  index: -1
+
+sarah3.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Girl_Scared
+  rotate: false
+  xy: 2, 2
+  size: 572, 987
+  orig: 577, 988
+  offset: 0, 0
+  index: -1
+
+sarah4.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Girl_Angry
+  rotate: false
+  xy: 2, 2
+  size: 571, 987
+  orig: 576, 988
+  offset: 0, 0
+  index: -1

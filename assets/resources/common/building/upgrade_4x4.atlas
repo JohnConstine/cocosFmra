@@ -1,0 +1,33 @@
+
+upgrade_4x4-1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+foon
+  rotate: true
+  xy: 514, 2
+  size: 108, 116
+  orig: 108, 116
+  offset: 0, 0
+  index: -1
+light_up
+  rotate: false
+  xy: 514, 112
+  size: 184, 181
+  orig: 184, 181
+  offset: 0, 0
+  index: -1
+star
+  rotate: true
+  xy: 632, 6
+  size: 104, 87
+  orig: 104, 87
+  offset: 0, 0
+  index: -1
+upgrade-edit
+  rotate: false
+  xy: 2, 39
+  size: 510, 254
+  orig: 510, 254
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,89 @@
+
+flag_host.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flag_anim0000
+  rotate: true
+  xy: 410, 1
+  size: 115, 82
+  orig: 128, 93
+  offset: 4, 5
+  index: -1
+flag_anim0001
+  rotate: true
+  xy: 492, 1
+  size: 115, 82
+  orig: 128, 93
+  offset: 4, 5
+  index: -1
+flag_anim0002
+  rotate: true
+  xy: 574, 1
+  size: 115, 82
+  orig: 128, 93
+  offset: 4, 5
+  index: -1
+flag_anim0003
+  rotate: true
+  xy: 656, 1
+  size: 115, 82
+  orig: 128, 93
+  offset: 4, 5
+  index: -1
+flag_anim0004
+  rotate: true
+  xy: 738, 1
+  size: 115, 82
+  orig: 128, 93
+  offset: 4, 5
+  index: -1
+flag_anim0005
+  rotate: true
+  xy: 820, 1
+  size: 115, 82
+  orig: 128, 93
+  offset: 4, 5
+  index: -1
+flag_anim0006
+  rotate: false
+  xy: 902, 34
+  size: 115, 82
+  orig: 128, 93
+  offset: 4, 5
+  index: -1
+flag_anim0007
+  rotate: true
+  xy: 0, 0
+  size: 116, 82
+  orig: 128, 93
+  offset: 4, 5
+  index: -1
+flag_anim0008
+  rotate: true
+  xy: 82, 0
+  size: 116, 82
+  orig: 128, 93
+  offset: 4, 5
+  index: -1
+flag_anim0009
+  rotate: true
+  xy: 164, 0
+  size: 116, 82
+  orig: 128, 93
+  offset: 4, 5
+  index: -1
+flag_anim0010
+  rotate: true
+  xy: 246, 0
+  size: 116, 82
+  orig: 128, 93
+  offset: 4, 5
+  index: -1
+flag_anim0011
+  rotate: true
+  xy: 328, 0
+  size: 116, 82
+  orig: 128, 93
+  offset: 4, 5
+  index: -1

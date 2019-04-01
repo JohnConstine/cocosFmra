@@ -1,0 +1,12 @@
+
+bush_round_red_rose.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bush_round_red_rose
+  rotate: false
+  xy: 2, 2
+  size: 182, 211
+  orig: 186, 215
+  offset: 2, 2
+  index: -1

@@ -1,0 +1,12 @@
+
+sled.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sled
+  rotate: false
+  xy: 2, 2
+  size: 287, 260
+  orig: 291, 264
+  offset: 2, 2
+  index: -1

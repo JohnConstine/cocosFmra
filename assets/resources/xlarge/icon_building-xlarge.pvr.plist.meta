@@ -1,0 +1,34 @@
+{
+  "ver": "1.2.4",
+  "uuid": "60e5b9d7-f07f-46bb-8ff5-80788ff1589b",
+  "rawTextureUuid": "6885cc0a-7739-4f36-b230-4fcaecb566de",
+  "size": {
+    "width": 1026,
+    "height": 1026
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "icon_building-xlarge.pvr.png": {
+      "ver": "1.0.3",
+      "uuid": "07c18cfa-3ffa-4e88-8164-2aaccf0a9536",
+      "rawTextureUuid": "6885cc0a-7739-4f36-b230-4fcaecb566de",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 1024,
+      "height": 1024,
+      "rawWidth": 1024,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

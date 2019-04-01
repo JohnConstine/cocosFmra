@@ -1,0 +1,124 @@
+
+wolf1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cow/cow_l1_sprite/shadow
+  rotate: false
+  xy: 293, 87
+  size: 83, 39
+  orig: 83, 39
+  offset: 0, 0
+  index: -1
+wolf/wolf_sprite/body
+  rotate: false
+  xy: 123, 54
+  size: 105, 72
+  orig: 105, 72
+  offset: 0, 0
+  index: -1
+wolf/wolf_sprite/ear_l
+  rotate: false
+  xy: 123, 2
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+wolf/wolf_sprite/ear_r
+  rotate: false
+  xy: 439, 73
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+wolf/wolf_sprite/eye_l
+  rotate: false
+  xy: 230, 64
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+wolf/wolf_sprite/eye_l_blink
+  rotate: false
+  xy: 293, 53
+  size: 56, 32
+  orig: 56, 32
+  offset: 0, 0
+  index: -1
+wolf/wolf_sprite/eye_l_hurt
+  rotate: false
+  xy: 177, 2
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+wolf/wolf_sprite/eye_l_sad
+  rotate: true
+  xy: 378, 69
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+wolf/wolf_sprite/eye_r
+  rotate: false
+  xy: 224, 2
+  size: 37, 50
+  orig: 37, 50
+  offset: 0, 0
+  index: -1
+wolf/wolf_sprite/eye_r_blink
+  rotate: true
+  xy: 341, 13
+  size: 38, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+wolf/wolf_sprite/eye_r_hurt
+  rotate: true
+  xy: 376, 36
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+wolf/wolf_sprite/eye_r_sad
+  rotate: true
+  xy: 291, 16
+  size: 35, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+wolf/wolf_sprite/head
+  rotate: false
+  xy: 2, 20
+  size: 119, 106
+  orig: 119, 106
+  offset: 0, 0
+  index: -1
+wolf/wolf_sprite/leg_lower
+  rotate: false
+  xy: 482, 81
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+wolf/wolf_sprite/leg_upper
+  rotate: false
+  xy: 263, 24
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+wolf/wolf_sprite/nose
+  rotate: true
+  xy: 351, 56
+  size: 29, 23
+  orig: 31, 25
+  offset: 1, 1
+  index: -1
+wolf/wolf_sprite/tail
+  rotate: false
+  xy: 421, 24
+  size: 35, 43
+  orig: 37, 43
+  offset: 2, 0
+  index: -1

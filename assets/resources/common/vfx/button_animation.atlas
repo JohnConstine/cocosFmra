@@ -1,0 +1,33 @@
+
+button_animation.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hi-light
+  rotate: false
+  xy: 2, 2
+  size: 40, 52
+  orig: 40, 53
+  offset: 0, 0
+  index: -1
+hi-light_small_horizontal
+  rotate: false
+  xy: 567, 221
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+hi-light_small_vertical
+  rotate: false
+  xy: 44, 9
+  size: 7, 45
+  orig: 7, 45
+  offset: 0, 0
+  index: -1
+purchase_promotion
+  rotate: false
+  xy: 2, 56
+  size: 563, 196
+  orig: 563, 196
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,19 @@
+
+firework.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fire_work_explode
+  rotate: false
+  xy: 2, 2
+  size: 114, 116
+  orig: 128, 128
+  offset: 7, 6
+  index: -1
+particle light
+  rotate: false
+  xy: 118, 72
+  size: 46, 46
+  orig: 58, 58
+  offset: 6, 6
+  index: -1

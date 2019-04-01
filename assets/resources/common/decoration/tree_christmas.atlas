@@ -1,0 +1,52 @@
+
+tree_christmas.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tc02
+  rotate: false
+  xy: 0, 229
+  size: 349, 262
+  orig: 349, 332
+  offset: 0, 0
+  index: -1
+tc03
+  rotate: false
+  xy: 0, 0
+  size: 237, 229
+  orig: 237, 229
+  offset: 0, 0
+  index: -1
+tc04
+  rotate: false
+  xy: 349, 284
+  size: 163, 207
+  orig: 163, 209
+  offset: 0, 2
+  index: -1
+tc05
+  rotate: false
+  xy: 237, 78
+  size: 109, 151
+  orig: 109, 151
+  offset: 0, 0
+  index: -1
+tc06
+  rotate: true
+  xy: 349, 209
+  size: 75, 145
+  orig: 75, 145
+  offset: 0, 0
+  index: -1
+
+tree_christmas2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tc01
+  rotate: false
+  xy: 0, 0
+  size: 265, 308
+  orig: 265, 308
+  offset: 0, 0
+  index: -1

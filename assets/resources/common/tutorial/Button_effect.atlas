@@ -1,0 +1,33 @@
+
+Button_effect.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow1
+  rotate: false
+  xy: 2, 2
+  size: 34, 34
+  orig: 35, 35
+  offset: 1, 0
+  index: -1
+ring1
+  rotate: false
+  xy: 78, 49
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+ring2
+  rotate: false
+  xy: 142, 52
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+star1
+  rotate: false
+  xy: 2, 38
+  size: 74, 73
+  orig: 74, 73
+  offset: 0, 0
+  index: -1

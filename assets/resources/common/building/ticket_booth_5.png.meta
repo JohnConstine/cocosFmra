@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "0133c066-b819-4f73-933f-fb59236ed3c3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "ticket_booth_5": {
+      "ver": "1.0.3",
+      "uuid": "78508589-25f5-408e-8192-ba1cc4197dc5",
+      "rawTextureUuid": "0133c066-b819-4f73-933f-fb59236ed3c3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -33.5,
+      "offsetY": 21.5,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 441,
+      "height": 465,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

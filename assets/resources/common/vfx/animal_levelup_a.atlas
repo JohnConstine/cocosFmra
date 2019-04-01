@@ -1,0 +1,12 @@
+
+animal_levelup_a.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light_fx_b
+  rotate: false
+  xy: 2, 2
+  size: 219, 174
+  orig: 219, 174
+  offset: 0, 0
+  index: -1

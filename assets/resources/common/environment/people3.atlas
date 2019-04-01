@@ -1,0 +1,159 @@
+
+people3.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l_lower
+  rotate: false
+  xy: 246, 115
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+arm_l_upper
+  rotate: false
+  xy: 123, 41
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+arm_r_lower
+  rotate: false
+  xy: 246, 102
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+arm_r_upper
+  rotate: true
+  xy: 138, 56
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 105, 58
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+camera
+  rotate: false
+  xy: 54, 30
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+can
+  rotate: false
+  xy: 138, 67
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+eye_l
+  rotate: false
+  xy: 156, 74
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+eye_l_blink
+  rotate: false
+  xy: 105, 37
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+eye_r
+  rotate: false
+  xy: 176, 74
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+eye_r_blink
+  rotate: false
+  xy: 86, 31
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: true
+  xy: 54, 2
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: true
+  xy: 67, 2
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 52
+  size: 101, 74
+  orig: 101, 74
+  offset: 0, 0
+  index: -1
+leg_l_lower
+  rotate: true
+  xy: 2, 2
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
+leg_l_upper
+  rotate: false
+  xy: 196, 82
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+leg_r_lower
+  rotate: true
+  xy: 23, 2
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+leg_r_upper
+  rotate: true
+  xy: 156, 65
+  size: 7, 15
+  orig: 7, 15
+  offset: 0, 0
+  index: -1
+mobile
+  rotate: true
+  xy: 2, 14
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+mouth_open
+  rotate: false
+  xy: 54, 16
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+popcorn
+  rotate: true
+  xy: 210, 101
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 105, 100
+  size: 103, 26
+  orig: 103, 26
+  offset: 0, 0
+  index: -1

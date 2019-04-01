@@ -1,0 +1,96 @@
+
+russia.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flag0000
+  rotate: true
+  xy: 761, 11
+  size: 60, 59
+  orig: 62, 67
+  offset: 0, 8
+  index: -1
+flag0001
+  rotate: true
+  xy: 644, 9
+  size: 62, 60
+  orig: 62, 67
+  offset: 0, 7
+  index: -1
+flag0002
+  rotate: true
+  xy: 523, 9
+  size: 62, 61
+  orig: 62, 67
+  offset: 0, 6
+  index: -1
+flag0003
+  rotate: false
+  xy: 400, 8
+  size: 62, 63
+  orig: 62, 67
+  offset: 0, 4
+  index: -1
+flag0004
+  rotate: false
+  xy: 276, 6
+  size: 61, 65
+  orig: 62, 67
+  offset: 0, 2
+  index: -1
+flag0005
+  rotate: false
+  xy: 339, 4
+  size: 59, 67
+  orig: 62, 67
+  offset: 0, 0
+  index: -1
+flag0006
+  rotate: false
+  xy: 464, 4
+  size: 57, 67
+  orig: 62, 67
+  offset: 0, 0
+  index: -1
+flag0007
+  rotate: false
+  xy: 586, 4
+  size: 56, 67
+  orig: 62, 67
+  offset: 0, 0
+  index: -1
+flag0008
+  rotate: false
+  xy: 706, 4
+  size: 53, 67
+  orig: 62, 67
+  offset: 0, 0
+  index: -1
+flag0009
+  rotate: false
+  xy: 936, 6
+  size: 51, 65
+  orig: 62, 67
+  offset: 0, 2
+  index: -1
+flag0010
+  rotate: false
+  xy: 880, 9
+  size: 54, 62
+  orig: 62, 67
+  offset: 0, 5
+  index: -1
+flag0011
+  rotate: false
+  xy: 822, 10
+  size: 56, 61
+  orig: 62, 67
+  offset: 0, 6
+  index: -1
+pole
+  rotate: true
+  xy: 2, 2
+  size: 69, 272
+  orig: 100, 280
+  offset: 14, 0
+  index: -1

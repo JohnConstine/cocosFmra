@@ -1,0 +1,12 @@
+
+grid_test.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+grid
+  rotate: false
+  xy: 0, 0
+  size: 1154, 865
+  orig: 1154, 865
+  offset: 0, 0
+  index: -1

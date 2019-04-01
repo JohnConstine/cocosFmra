@@ -1,0 +1,12 @@
+
+garage_4.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+garage
+  rotate: false
+  xy: 2, 2
+  size: 290, 343
+  orig: 290, 343
+  offset: 0, 0
+  index: -1

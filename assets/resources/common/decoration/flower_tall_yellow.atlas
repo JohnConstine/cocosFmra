@@ -1,0 +1,12 @@
+
+flower_tall_yellow.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flower_tall_yellow
+  rotate: false
+  xy: 2, 2
+  size: 210, 219
+  orig: 210, 219
+  offset: 0, 0
+  index: -1

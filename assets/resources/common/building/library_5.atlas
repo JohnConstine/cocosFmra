@@ -1,0 +1,12 @@
+
+library_5.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+library_upgrade_powerup_edit
+  rotate: false
+  xy: 2, 2
+  size: 288, 401
+  orig: 288, 401
+  offset: 0, 0
+  index: -1

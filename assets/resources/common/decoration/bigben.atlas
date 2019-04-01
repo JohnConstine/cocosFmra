@@ -1,0 +1,96 @@
+
+bigben.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flag_racehistory0000
+  rotate: true
+  xy: 279, 4
+  size: 45, 64
+  orig: 53, 74
+  offset: 0, 0
+  index: -1
+flag_racehistory0001
+  rotate: false
+  xy: 554, 111
+  size: 47, 63
+  orig: 53, 74
+  offset: 0, 0
+  index: -1
+flag_racehistory0002
+  rotate: true
+  xy: 410, 2
+  size: 47, 62
+  orig: 53, 74
+  offset: 0, 0
+  index: -1
+flag_racehistory0003
+  rotate: true
+  xy: 474, 2
+  size: 47, 62
+  orig: 53, 74
+  offset: 0, 0
+  index: -1
+flag_racehistory0004
+  rotate: true
+  xy: 345, 3
+  size: 46, 63
+  orig: 53, 74
+  offset: 0, 0
+  index: -1
+flag_racehistory0005
+  rotate: true
+  xy: 212, 5
+  size: 44, 65
+  orig: 53, 74
+  offset: 0, 0
+  index: -1
+flag_racehistory0006
+  rotate: false
+  xy: 554, 43
+  size: 41, 66
+  orig: 53, 74
+  offset: 0, 0
+  index: -1
+flag_racehistory0007
+  rotate: true
+  xy: 142, 6
+  size: 43, 68
+  orig: 53, 74
+  offset: 0, 0
+  index: -1
+flag_racehistory0008
+  rotate: true
+  xy: 72, 4
+  size: 45, 68
+  orig: 53, 74
+  offset: 0, 0
+  index: -1
+flag_racehistory0009
+  rotate: true
+  xy: 2, 3
+  size: 46, 68
+  orig: 53, 74
+  offset: 0, 0
+  index: -1
+flag_racehistory0010
+  rotate: false
+  xy: 554, 244
+  size: 47, 67
+  orig: 53, 74
+  offset: 0, 0
+  index: -1
+flag_racehistory0011
+  rotate: false
+  xy: 554, 176
+  size: 47, 66
+  orig: 53, 74
+  offset: 0, 0
+  index: -1
+race_history_2
+  rotate: true
+  xy: 2, 51
+  size: 260, 550
+  orig: 260, 550
+  offset: 0, 0
+  index: -1

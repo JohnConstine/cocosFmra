@@ -1,0 +1,110 @@
+
+wolf1_2_2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cow/cow_l1_sprite/eye_blink
+  rotate: false
+  xy: 114, 6
+  size: 40, 7
+  orig: 40, 7
+  offset: 0, 0
+  index: -1
+cow/cow_l1_sprite/eye_hurt
+  rotate: true
+  xy: 87, 2
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+cow/cow_l1_sprite/shadow
+  rotate: false
+  xy: 132, 125
+  size: 83, 39
+  orig: 83, 39
+  offset: 0, 0
+  index: -1
+wolf/wolf.1.2.1/body
+  rotate: false
+  xy: 2, 36
+  size: 110, 82
+  orig: 112, 84
+  offset: 1, 2
+  index: -1
+wolf/wolf.1.2.1/ear
+  rotate: false
+  xy: 154, 62
+  size: 57, 61
+  orig: 59, 63
+  offset: 1, 1
+  index: -1
+wolf/wolf.1.2.1/eye_l
+  rotate: false
+  xy: 114, 15
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+wolf/wolf.1.2.1/eye_l_sad
+  rotate: false
+  xy: 159, 21
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+wolf/wolf.1.2.1/eye_r
+  rotate: false
+  xy: 220, 215
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+wolf/wolf.1.2.1/eye_r_sad
+  rotate: false
+  xy: 220, 178
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+wolf/wolf.1.2.1/leg_up
+  rotate: true
+  xy: 48, 6
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+wolf/wolf.1.2.1/nose
+  rotate: false
+  xy: 220, 157
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+wolf/wolf.1.2.2/head
+  rotate: false
+  xy: 2, 120
+  size: 128, 130
+  orig: 128, 131
+  offset: 0, 1
+  index: -1
+wolf/wolf.1.2.2/head_prop
+  rotate: false
+  xy: 132, 166
+  size: 86, 84
+  orig: 87, 87
+  offset: 0, 2
+  index: -1
+wolf/wolf.1.2.2/leg_low
+  rotate: true
+  xy: 2, 5
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+wolf/wolf.1.2.2/tail
+  rotate: true
+  xy: 114, 56
+  size: 62, 38
+  orig: 64, 40
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,34 @@
+{
+  "ver": "1.2.4",
+  "uuid": "5d8700d3-183e-49ea-b9e6-21791bff2f53",
+  "rawTextureUuid": "fbf5436f-2115-4bdb-863a-c90b5feaff34",
+  "size": {
+    "width": 104,
+    "height": 190
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "tutorial-medium.pvr.ccz": {
+      "ver": "1.0.3",
+      "uuid": "7c603ac5-2d85-43f2-8c1d-a1a810fb4a4b",
+      "rawTextureUuid": "fbf5436f-2115-4bdb-863a-c90b5feaff34",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -12,
+      "offsetY": 33,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 102,
+      "height": 188,
+      "rawWidth": 128,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

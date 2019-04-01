@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "abeb1cdb-bfbe-413b-bfe2-4dde1cbc2fd0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "food_maker_3-1": {
+      "ver": "1.0.3",
+      "uuid": "482e34bf-097c-4075-8aba-b23a74dc3c69",
+      "rawTextureUuid": "abeb1cdb-bfbe-413b-bfe2-4dde1cbc2fd0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 2,
+      "width": 1001,
+      "height": 856,
+      "rawWidth": 1006,
+      "rawHeight": 860,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

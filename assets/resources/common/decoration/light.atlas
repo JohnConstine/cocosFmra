@@ -1,0 +1,96 @@
+
+light.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flag_light0000
+  rotate: false
+  xy: 442, 59
+  size: 26, 82
+  orig: 33, 87
+  offset: 3, 5
+  index: -1
+flag_light0001
+  rotate: true
+  xy: 270, 30
+  size: 26, 82
+  orig: 33, 87
+  offset: 3, 5
+  index: -1
+flag_light0002
+  rotate: false
+  xy: 328, 59
+  size: 27, 82
+  orig: 33, 87
+  offset: 2, 5
+  index: -1
+flag_light0003
+  rotate: true
+  xy: 270, 2
+  size: 26, 82
+  orig: 33, 87
+  offset: 2, 5
+  index: -1
+flag_light0004
+  rotate: true
+  xy: 357, 115
+  size: 26, 83
+  orig: 33, 87
+  offset: 2, 4
+  index: -1
+flag_light0005
+  rotate: false
+  xy: 270, 58
+  size: 27, 83
+  orig: 33, 87
+  offset: 1, 4
+  index: -1
+flag_light0006
+  rotate: false
+  xy: 299, 58
+  size: 27, 83
+  orig: 33, 87
+  offset: 1, 4
+  index: -1
+flag_light0007
+  rotate: true
+  xy: 357, 87
+  size: 26, 83
+  orig: 33, 87
+  offset: 2, 4
+  index: -1
+flag_light0008
+  rotate: true
+  xy: 357, 59
+  size: 26, 83
+  orig: 33, 87
+  offset: 2, 4
+  index: -1
+flag_light0009
+  rotate: false
+  xy: 470, 58
+  size: 25, 83
+  orig: 33, 87
+  offset: 3, 4
+  index: -1
+flag_light0010
+  rotate: true
+  xy: 354, 31
+  size: 26, 82
+  orig: 33, 87
+  offset: 3, 5
+  index: -1
+flag_light0011
+  rotate: true
+  xy: 354, 3
+  size: 26, 82
+  orig: 33, 87
+  offset: 3, 5
+  index: -1
+light
+  rotate: true
+  xy: 2, 3
+  size: 138, 266
+  orig: 138, 289
+  offset: 0, 23
+  index: -1

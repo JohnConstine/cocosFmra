@@ -1,0 +1,110 @@
+
+dog1_1_1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cow/cow_l1_sprite/eye_blink
+  rotate: true
+  xy: 503, 84
+  size: 40, 7
+  orig: 40, 7
+  offset: 0, 0
+  index: -1
+cow/cow_l1_sprite/eye_hurt
+  rotate: false
+  xy: 286, 2
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+cow/cow_l1_sprite/shadow
+  rotate: false
+  xy: 134, 6
+  size: 83, 39
+  orig: 83, 39
+  offset: 0, 0
+  index: -1
+dog/dog.1.1.1/body
+  rotate: false
+  xy: 134, 47
+  size: 111, 77
+  orig: 111, 78
+  offset: 0, 1
+  index: -1
+dog/dog.1.1.1/ear_l
+  rotate: false
+  xy: 247, 69
+  size: 57, 55
+  orig: 59, 56
+  offset: 1, 1
+  index: -1
+dog/dog.1.1.1/ear_r
+  rotate: true
+  xy: 306, 78
+  size: 46, 58
+  orig: 47, 59
+  offset: 0, 1
+  index: -1
+dog/dog.1.1.1/eye
+  rotate: false
+  xy: 427, 83
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+dog/dog.1.1.1/eye_l_sad
+  rotate: false
+  xy: 465, 83
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+dog/dog.1.1.1/eye_r
+  rotate: true
+  xy: 247, 2
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+dog/dog.1.1.1/eye_r_sad
+  rotate: false
+  xy: 247, 29
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+dog/dog.1.1.1/head
+  rotate: true
+  xy: 2, 6
+  size: 118, 130
+  orig: 118, 131
+  offset: 0, 1
+  index: -1
+dog/dog.1.1.1/leg_lower
+  rotate: false
+  xy: 219, 2
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+dog/dog.1.1.1/leg_upper
+  rotate: false
+  xy: 275, 29
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+dog/dog.1.1.1/nose
+  rotate: false
+  xy: 306, 57
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+dog/dog.1.1.1/tail
+  rotate: false
+  xy: 366, 82
+  size: 59, 42
+  orig: 61, 44
+  offset: 1, 1
+  index: -1

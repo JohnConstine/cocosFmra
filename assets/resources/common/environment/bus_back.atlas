@@ -1,0 +1,26 @@
+
+bus_back-1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_bus
+  rotate: false
+  xy: 2, 2
+  size: 421, 420
+  orig: 421, 420
+  offset: 0, 0
+  index: -1
+bus_shadow
+  rotate: true
+  xy: 425, 319
+  size: 103, 60
+  orig: 103, 60
+  offset: 0, 0
+  index: -1
+front_bus_wheel
+  rotate: false
+  xy: 425, 257
+  size: 55, 60
+  orig: 55, 61
+  offset: 0, 0
+  index: -1

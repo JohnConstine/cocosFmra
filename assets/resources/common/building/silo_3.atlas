@@ -1,0 +1,12 @@
+
+silo_3.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+silo
+  rotate: true
+  xy: 2, 2
+  size: 222, 314
+  orig: 252, 329
+  offset: 16, 9
+  index: -1

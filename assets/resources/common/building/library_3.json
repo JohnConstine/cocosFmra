@@ -1,0 +1,1 @@
+{"bones":[{"name":"root"},{"name":"bone","parent":"root","length":158.85,"rotation":90}],"slots":[{"name":"library_upgrade_powerup_a_edit","bone":"bone","attachment":"library_upgrade_powerup_edit"}],"skins":{"default":{"library_upgrade_powerup_a_edit":{"library_upgrade_powerup_edit":{"x":92.62,"y":4.53,"rotation":-90,"width":381,"height":458}}}},"animations":{"idle":{}}}

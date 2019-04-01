@@ -1,0 +1,1 @@
+{"bones":[{"name":"root"},{"name":"bone","parent":"root","length":240.1,"rotation":90}],"slots":[{"name":"silo","bone":"bone","attachment":"silo"}],"skins":{"default":{"silo":{"silo":{"x":90.89,"rotation":-90,"width":336,"height":439}}}},"animations":{"idle":{}}}

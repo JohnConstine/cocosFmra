@@ -1,0 +1,12 @@
+
+training_gym_3.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gym3
+  rotate: false
+  xy: 2, 2
+  size: 335, 363
+  orig: 335, 363
+  offset: 0, 0
+  index: -1

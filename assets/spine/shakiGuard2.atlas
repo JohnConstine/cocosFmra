@@ -1,0 +1,82 @@
+
+shakiGuard2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shaki_03_01
+  rotate: false
+  xy: 2, 33
+  size: 250, 93
+  orig: 250, 93
+  offset: 0, 0
+  index: -1
+shaki_03_02
+  rotate: false
+  xy: 254, 64
+  size: 180, 62
+  orig: 180, 62
+  offset: 0, 0
+  index: -1
+shaki_03_03
+  rotate: false
+  xy: 766, 44
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+shaki_03_04
+  rotate: true
+  xy: 669, 41
+  size: 85, 95
+  orig: 85, 95
+  offset: 0, 0
+  index: -1
+shaki_03_05
+  rotate: true
+  xy: 850, 76
+  size: 50, 89
+  orig: 50, 89
+  offset: 0, 0
+  index: -1
+shaki_03_06
+  rotate: true
+  xy: 436, 59
+  size: 67, 118
+  orig: 67, 118
+  offset: 0, 0
+  index: -1
+shaki_03_07
+  rotate: true
+  xy: 556, 68
+  size: 58, 111
+  orig: 58, 111
+  offset: 0, 0
+  index: -1
+shaki_03_09
+  rotate: false
+  xy: 990, 96
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+shaki_03_10
+  rotate: true
+  xy: 850, 44
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+shaki_03_11
+  rotate: false
+  xy: 941, 80
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+shaki_03_14
+  rotate: false
+  xy: 766, 2
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1

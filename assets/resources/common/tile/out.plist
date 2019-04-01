@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>tile-medium0.pvr.ccz</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-5,30}</string>
+                <key>spriteSize</key>
+                <string>{1014,964}</string>
+                <key>spriteSourceSize</key>
+                <string>{1024,1024}</string>
+                <key>textureRect</key>
+                <string>{{1,1},{1014,964}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>tile-medium0.pvr.png</string>
+            <key>size</key>
+            <string>{1016,966}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:cd46b2e33a6dd27eb340660202dcb7bf:45478f0e18855985554f7061da378ee8:d5a92588cccb249240564a5e8397733c$</string>
+            <key>textureFileName</key>
+            <string>tile-medium0.pvr.png</string>
+        </dict>
+    </dict>
+</plist>

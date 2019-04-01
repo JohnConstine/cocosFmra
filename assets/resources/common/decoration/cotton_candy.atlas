@@ -1,0 +1,103 @@
+
+cotton_candy.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cotton_candy
+  rotate: true
+  xy: 2, 176
+  size: 216, 224
+  orig: 216, 224
+  offset: 0, 0
+  index: -1
+cotton_candy01
+  rotate: false
+  xy: 198, 123
+  size: 25, 51
+  orig: 25, 51
+  offset: 0, 0
+  index: -1
+cotton_candy_ani0000
+  rotate: false
+  xy: 228, 281
+  size: 81, 111
+  orig: 81, 111
+  offset: 0, 0
+  index: -1
+cotton_candy_ani0001
+  rotate: false
+  xy: 228, 168
+  size: 81, 111
+  orig: 81, 111
+  offset: 0, 0
+  index: -1
+cotton_candy_ani0002
+  rotate: true
+  xy: 2, 93
+  size: 81, 111
+  orig: 81, 111
+  offset: 0, 0
+  index: -1
+cotton_candy_ani0003
+  rotate: false
+  xy: 115, 63
+  size: 81, 111
+  orig: 81, 111
+  offset: 0, 0
+  index: -1
+cotton_candy_ani0004
+  rotate: true
+  xy: 2, 10
+  size: 81, 111
+  orig: 81, 111
+  offset: 0, 0
+  index: -1
+cotton_candy_ani0005
+  rotate: true
+  xy: 225, 85
+  size: 81, 111
+  orig: 81, 111
+  offset: 0, 0
+  index: -1
+cotton_candy_ani0006
+  rotate: false
+  xy: 311, 281
+  size: 81, 111
+  orig: 81, 111
+  offset: 0, 0
+  index: -1
+cotton_candy_ani0007
+  rotate: true
+  xy: 311, 198
+  size: 81, 111
+  orig: 81, 111
+  offset: 0, 0
+  index: -1
+cotton_candy_ani0008
+  rotate: false
+  xy: 394, 281
+  size: 81, 111
+  orig: 81, 111
+  offset: 0, 0
+  index: -1
+cotton_candy_ani0009
+  rotate: false
+  xy: 338, 85
+  size: 81, 111
+  orig: 81, 111
+  offset: 0, 0
+  index: -1
+cotton_candy_ani0010
+  rotate: true
+  xy: 198, 2
+  size: 81, 111
+  orig: 81, 111
+  offset: 0, 0
+  index: -1
+cotton_candy_ani0011
+  rotate: true
+  xy: 311, 2
+  size: 81, 111
+  orig: 81, 111
+  offset: 0, 0
+  index: -1

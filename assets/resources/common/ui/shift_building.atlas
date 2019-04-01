@@ -1,0 +1,40 @@
+
+shift_building.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+arrow_base
+  rotate: true
+  xy: 1, 59
+  size: 155, 289
+  orig: 155, 292
+  offset: 0, 1
+  index: -1
+last
+  rotate: false
+  xy: 1, 1
+  size: 70, 56
+  orig: 70, 57
+  offset: 0, 1
+  index: -1
+mid1
+  rotate: false
+  xy: 292, 77
+  size: 70, 30
+  orig: 70, 30
+  offset: 0, 0
+  index: -1
+mid2
+  rotate: false
+  xy: 424, 163
+  size: 69, 51
+  orig: 69, 52
+  offset: 0, 1
+  index: -1
+tip
+  rotate: false
+  xy: 292, 109
+  size: 130, 105
+  orig: 130, 105
+  offset: 0, 0
+  index: -1

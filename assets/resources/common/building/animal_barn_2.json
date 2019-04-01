@@ -1,0 +1,1 @@
+{"bones":[{"name":"root"},{"name":"bone","parent":"root","length":322.39,"rotation":90}],"slots":[{"name":"animal_barn","bone":"bone","attachment":"animal_barn"}],"skins":{"default":{"animal_barn":{"animal_barn":{"x":86.35,"y":2.74,"rotation":-90,"width":450,"height":507}}}},"animations":{"idle":{}}}

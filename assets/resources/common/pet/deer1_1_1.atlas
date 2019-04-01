@@ -1,0 +1,103 @@
+
+deer1_1_1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cow/cow_l1_sprite/eye_blink
+  rotate: false
+  xy: 251, 51
+  size: 40, 7
+  orig: 40, 7
+  offset: 0, 0
+  index: -1
+cow/cow_l1_sprite/eye_hurt
+  rotate: true
+  xy: 224, 21
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+cow/cow_l1_sprite/shadow
+  rotate: false
+  xy: 314, 87
+  size: 83, 39
+  orig: 83, 39
+  offset: 0, 0
+  index: -1
+deer/deer.1.1.1/body
+  rotate: false
+  xy: 148, 55
+  size: 101, 71
+  orig: 103, 73
+  offset: 1, 1
+  index: -1
+deer/deer.1.1.1/ear_l
+  rotate: false
+  xy: 251, 60
+  size: 61, 66
+  orig: 63, 68
+  offset: 1, 1
+  index: -1
+deer/deer.1.1.1/eye_l
+  rotate: false
+  xy: 442, 87
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+deer/deer.1.1.1/eye_l_sad
+  rotate: false
+  xy: 399, 86
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+deer/deer.1.1.1/eye_r
+  rotate: false
+  xy: 481, 92
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+deer/deer.1.1.1/eye_r_sad
+  rotate: true
+  xy: 188, 22
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+deer/deer.1.1.1/head
+  rotate: true
+  xy: 2, 17
+  size: 109, 144
+  orig: 111, 147
+  offset: 1, 2
+  index: -1
+deer/deer.1.1.1/leg_lower
+  rotate: true
+  xy: 148, 2
+  size: 18, 37
+  orig: 18, 37
+  offset: 0, 0
+  index: -1
+deer/deer.1.1.1/leg_upper
+  rotate: true
+  xy: 314, 63
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+deer/deer.1.1.1/nose
+  rotate: false
+  xy: 2, 2
+  size: 17, 13
+  orig: 17, 14
+  offset: 0, 1
+  index: -1
+deer/deer.1.1.1/tail
+  rotate: true
+  xy: 148, 22
+  size: 31, 38
+  orig: 32, 43
+  offset: 0, 4
+  index: -1

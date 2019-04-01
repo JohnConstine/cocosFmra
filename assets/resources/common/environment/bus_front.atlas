@@ -1,0 +1,26 @@
+
+bus_front-1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bus_shadow
+  rotate: true
+  xy: 436, 320
+  size: 103, 60
+  orig: 103, 60
+  offset: 0, 0
+  index: -1
+front_bus
+  rotate: true
+  xy: 2, 2
+  size: 421, 432
+  orig: 421, 432
+  offset: 0, 0
+  index: -1
+front_bus_wheel
+  rotate: true
+  xy: 436, 263
+  size: 55, 60
+  orig: 55, 61
+  offset: 0, 0
+  index: -1

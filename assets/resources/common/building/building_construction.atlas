@@ -1,0 +1,47 @@
+
+building_construction-1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c06
+  rotate: false
+  xy: 112, 96
+  size: 49, 47
+  orig: 50, 49
+  offset: 0, 1
+  index: -1
+contruct_edit
+  rotate: false
+  xy: 2, 145
+  size: 558, 576
+  orig: 558, 576
+  offset: 0, 0
+  index: -1
+contruct_fin_edit
+  rotate: false
+  xy: 562, 188
+  size: 536, 533
+  orig: 536, 533
+  offset: 0, 0
+  index: -1
+foon
+  rotate: false
+  xy: 2, 27
+  size: 108, 116
+  orig: 108, 116
+  offset: 0, 0
+  index: -1
+light_up
+  rotate: true
+  xy: 562, 2
+  size: 184, 181
+  orig: 184, 181
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 745, 99
+  size: 104, 87
+  orig: 104, 87
+  offset: 0, 0
+  index: -1

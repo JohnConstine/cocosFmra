@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "0c50bee6-3770-4a0c-98ac-2a8c7d381717",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "pink_tulip": {
+      "ver": "1.0.3",
+      "uuid": "10ab51fa-65f1-4f70-a383-ad0b75e147b8",
+      "rawTextureUuid": "0c50bee6-3770-4a0c-98ac-2a8c7d381717",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 91,
+      "height": 77,
+      "rawWidth": 95,
+      "rawHeight": 81,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

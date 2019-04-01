@@ -1,0 +1,12 @@
+
+tree_leaf_particle.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+slg
+  rotate: false
+  xy: 2, 2
+  size: 176, 76
+  orig: 189, 92
+  offset: 9, 5
+  index: -1

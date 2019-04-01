@@ -1,0 +1,34 @@
+{
+  "ver": "1.2.4",
+  "uuid": "4709423b-9450-41db-acb5-891d53133032",
+  "rawTextureUuid": "26c186bb-714b-41f7-8741-36347146d630",
+  "size": {
+    "width": 1016,
+    "height": 966
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "tile-medium0.pvr.ccz": {
+      "ver": "1.0.3",
+      "uuid": "c8c7f48a-84c3-4d29-a2c0-12fa782118ca",
+      "rawTextureUuid": "26c186bb-714b-41f7-8741-36347146d630",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -5,
+      "offsetY": 30,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 1014,
+      "height": 964,
+      "rawWidth": 1024,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

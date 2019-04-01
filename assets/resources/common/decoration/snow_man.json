@@ -1,0 +1,1 @@
+{"bones":[{"name":"root"}],"slots":[{"name":"snow_man","bone":"root","attachment":"snow_man"}],"skins":{"default":{"snow_man":{"snow_man":{"x":5.86,"y":43.48,"scaleX":1.21,"scaleY":1.21,"width":135,"height":190}}}},"animations":{"idle":{}}}

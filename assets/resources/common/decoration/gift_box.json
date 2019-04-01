@@ -1,0 +1,1 @@
+{"bones":[{"name":"root"}],"slots":[{"name":"gift_box","bone":"root","attachment":"gift_box"}],"skins":{"default":{"gift_box":{"gift_box":{"x":-0.21,"y":12.35,"width":164,"height":170}}}},"animations":{"idle":{}}}

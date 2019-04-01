@@ -1,0 +1,96 @@
+
+wheel.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flag_wheel0000
+  rotate: true
+  xy: 266, 57
+  size: 53, 60
+  orig: 63, 68
+  offset: 0, 0
+  index: -1
+flag_wheel0001
+  rotate: true
+  xy: 206, 61
+  size: 55, 58
+  orig: 63, 68
+  offset: 0, 0
+  index: -1
+flag_wheel0002
+  rotate: true
+  xy: 272, 112
+  size: 56, 57
+  orig: 63, 68
+  offset: 0, 0
+  index: -1
+flag_wheel0003
+  rotate: false
+  xy: 206, 2
+  size: 55, 57
+  orig: 63, 68
+  offset: 0, 0
+  index: -1
+flag_wheel0004
+  rotate: true
+  xy: 331, 60
+  size: 54, 59
+  orig: 63, 68
+  offset: 0, 0
+  index: -1
+flag_wheel0005
+  rotate: true
+  xy: 328, 7
+  size: 51, 61
+  orig: 63, 68
+  offset: 0, 0
+  index: -1
+flag_wheel0006
+  rotate: true
+  xy: 263, 7
+  size: 48, 63
+  orig: 63, 68
+  offset: 0, 0
+  index: -1
+flag_wheel0007
+  rotate: true
+  xy: 206, 118
+  size: 50, 64
+  orig: 63, 68
+  offset: 0, 0
+  index: -1
+flag_wheel0008
+  rotate: true
+  xy: 338, 173
+  size: 52, 65
+  orig: 63, 68
+  offset: 0, 0
+  index: -1
+flag_wheel0009
+  rotate: true
+  xy: 206, 170
+  size: 55, 65
+  orig: 63, 68
+  offset: 0, 0
+  index: -1
+flag_wheel0010
+  rotate: true
+  xy: 273, 170
+  size: 55, 63
+  orig: 63, 68
+  offset: 0, 0
+  index: -1
+flag_wheel0011
+  rotate: true
+  xy: 338, 116
+  size: 55, 61
+  orig: 63, 68
+  offset: 0, 0
+  index: -1
+wheels
+  rotate: false
+  xy: 2, 12
+  size: 202, 213
+  orig: 202, 213
+  offset: 0, 0
+  index: -1

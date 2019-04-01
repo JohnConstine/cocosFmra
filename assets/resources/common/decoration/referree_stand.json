@@ -1,0 +1,1 @@
+{"bones":[{"name":"root"},{"name":"bone","parent":"root","length":199.02,"x":-1.28,"y":-3.21,"rotation":90}],"slots":[{"name":"referree_stand","bone":"bone","attachment":"referree_stand"}],"skins":{"default":{"referree_stand":{"referree_stand":{"x":100.29,"rotation":-90,"width":230,"height":371}}}},"animations":{"idle":{}}}

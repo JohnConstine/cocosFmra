@@ -1,0 +1,1 @@
+{"bones":[{"name":"root"}],"slots":[{"name":"statuedeer1","bone":"root","attachment":"statuedeer1"}],"skins":{"default":{"statuedeer1":{"statuedeer1":{"x":-12.38,"y":60.05,"scaleX":0.75,"scaleY":0.75,"width":197,"height":296}}}},"animations":{"idle":{}}}

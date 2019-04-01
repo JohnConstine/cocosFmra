@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>bg_screen.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{599,449}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{599,449}}</string>
+                <key>sourceSize</key>
+                <string>{599,449}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>bg_gacha_new-medium.pvr.ccz</string>
+            <key>size</key>
+            <string>{1024,1024}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:d8adb33bc59c1cdab079b847f7f5e5c3:5397877fe3c48bf5678c7f8f8a1f6f29:64c7ef1c998870a96f812b51c402fb53$</string>
+            <key>textureFileName</key>
+            <string>bg_gacha_new-medium.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

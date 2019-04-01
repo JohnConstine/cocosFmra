@@ -1,0 +1,1 @@
+{"bones":[{"name":"root"}],"slots":[{"name":"orderpanel_1","bone":"root","attachment":"orderpanel_1"}],"skins":{"default":{"orderpanel_1":{"orderpanel_1":{"x":24,"y":55,"width":173,"height":227}}}},"animations":{"idle_01":{}}}

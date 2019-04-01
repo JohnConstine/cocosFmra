@@ -1,0 +1,12 @@
+
+tree_smoke.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sm
+  rotate: false
+  xy: 2, 2
+  size: 49, 47
+  orig: 50, 49
+  offset: 0, 1
+  index: -1

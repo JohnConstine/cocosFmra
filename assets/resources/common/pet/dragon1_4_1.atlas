@@ -1,0 +1,152 @@
+
+dragon1_4_1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bull/bull_sprite/smoke
+  rotate: false
+  xy: 211, 126
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+bull/bull_sprite/smoke_trail
+  rotate: false
+  xy: 139, 93
+  size: 63, 25
+  orig: 64, 25
+  offset: 0, 0
+  index: -1
+cow/cow_l1_sprite/eye_blink
+  rotate: false
+  xy: 340, 147
+  size: 40, 7
+  orig: 40, 7
+  offset: 0, 0
+  index: -1
+cow/cow_l1_sprite/eye_hurt
+  rotate: true
+  xy: 483, 211
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+dragon_green/dragon.1.4.1/body
+  rotate: false
+  xy: 2, 8
+  size: 111, 77
+  orig: 111, 77
+  offset: 0, 0
+  index: -1
+dragon_green/dragon.1.4.1/ear_l
+  rotate: false
+  xy: 388, 207
+  size: 45, 36
+  orig: 46, 37
+  offset: 0, 1
+  index: -1
+dragon_green/dragon.1.4.1/eye_l
+  rotate: false
+  xy: 340, 156
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+dragon_green/dragon.1.4.1/eye_l_sad
+  rotate: false
+  xy: 340, 200
+  size: 46, 43
+  orig: 46, 43
+  offset: 0, 0
+  index: -1
+dragon_green/dragon.1.4.1/eye_r
+  rotate: false
+  xy: 115, 2
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+dragon_green/dragon.1.4.1/eye_r_sad
+  rotate: false
+  xy: 145, 53
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+dragon_green/dragon.1.4.1/fx1
+  rotate: false
+  xy: 139, 120
+  size: 70, 70
+  orig: 75, 75
+  offset: 3, 2
+  index: -1
+dragon_green/dragon.1.4.1/fx2
+  rotate: true
+  xy: 318, 109
+  size: 36, 19
+  orig: 40, 21
+  offset: 2, 1
+  index: -1
+dragon_green/dragon.1.4.1/head
+  rotate: false
+  xy: 2, 87
+  size: 135, 156
+  orig: 136, 158
+  offset: 0, 1
+  index: -1
+dragon_green/dragon.1.4.1/leg_lower
+  rotate: false
+  xy: 115, 41
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+dragon_green/dragon.1.4.1/leg_upper
+  rotate: false
+  xy: 182, 53
+  size: 24, 38
+  orig: 24, 39
+  offset: 0, 1
+  index: -1
+dragon_green/dragon.1.4.1/nose
+  rotate: false
+  xy: 277, 147
+  size: 61, 43
+  orig: 62, 44
+  offset: 0, 1
+  index: -1
+dragon_green/dragon.1.4.1/tail1
+  rotate: false
+  xy: 435, 215
+  size: 46, 28
+  orig: 46, 28
+  offset: 0, 0
+  index: -1
+dragon_green/dragon.1.4.1/tail2
+  rotate: false
+  xy: 277, 116
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+dragon_green/dragon.1.4.1/tail3
+  rotate: false
+  xy: 339, 125
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+dragon_green/dragon.1.4.1/wing
+  rotate: false
+  xy: 269, 192
+  size: 69, 51
+  orig: 71, 54
+  offset: 1, 2
+  index: -1
+dragon_green/dragon_green_sprite/shadow
+  rotate: false
+  xy: 139, 192
+  size: 128, 51
+  orig: 128, 51
+  offset: 0, 0
+  index: -1

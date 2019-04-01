@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "a9800118-3d26-4e07-9ce3-d015680e7076",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "samuel_tutor2": {
+      "ver": "1.0.3",
+      "uuid": "a3cd7e46-44da-43dc-add5-4efbea27e9de",
+      "rawTextureUuid": "a9800118-3d26-4e07-9ce3-d015680e7076",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -195.5,
+      "offsetY": 11,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 629,
+      "height": 998,
+      "rawWidth": 1024,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

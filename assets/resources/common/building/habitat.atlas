@@ -1,0 +1,103 @@
+
+habitat.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flag_tk0000
+  rotate: true
+  xy: 416, 407
+  size: 46, 67
+  orig: 54, 70
+  offset: 0, 0
+  index: -1
+flag_tk0001
+  rotate: false
+  xy: 361, 294
+  size: 48, 69
+  orig: 54, 70
+  offset: 0, 0
+  index: -1
+flag_tk0002
+  rotate: true
+  xy: 416, 455
+  size: 49, 69
+  orig: 54, 70
+  offset: 0, 0
+  index: -1
+flag_tk0003
+  rotate: false
+  xy: 361, 365
+  size: 51, 69
+  orig: 54, 70
+  offset: 0, 0
+  index: -1
+flag_tk0004
+  rotate: false
+  xy: 361, 436
+  size: 53, 68
+  orig: 54, 70
+  offset: 0, 0
+  index: -1
+flag_tk0005
+  rotate: false
+  xy: 361, 226
+  size: 52, 66
+  orig: 54, 70
+  offset: 0, 0
+  index: -1
+flag_tk0006
+  rotate: false
+  xy: 363, 160
+  size: 50, 64
+  orig: 54, 70
+  offset: 0, 0
+  index: -1
+flag_tk0007
+  rotate: true
+  xy: 411, 302
+  size: 52, 63
+  orig: 54, 70
+  offset: 0, 0
+  index: -1
+flag_tk0008
+  rotate: false
+  xy: 415, 238
+  size: 53, 62
+  orig: 54, 70
+  offset: 0, 0
+  index: -1
+flag_tk0009
+  rotate: false
+  xy: 415, 174
+  size: 52, 62
+  orig: 54, 70
+  offset: 0, 0
+  index: -1
+flag_tk0010
+  rotate: false
+  xy: 363, 94
+  size: 50, 64
+  orig: 54, 70
+  offset: 0, 0
+  index: -1
+flag_tk0011
+  rotate: true
+  xy: 414, 356
+  size: 49, 65
+  orig: 54, 70
+  offset: 0, 0
+  index: -1
+habitat1front
+  rotate: false
+  xy: 2, 2
+  size: 359, 185
+  orig: 359, 185
+  offset: 0, 0
+  index: -1
+habitat1rear
+  rotate: false
+  xy: 2, 189
+  size: 357, 315
+  orig: 357, 315
+  offset: 0, 0
+  index: -1

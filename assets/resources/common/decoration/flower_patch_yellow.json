@@ -1,0 +1,1 @@
+{"bones":[{"name":"root"}],"slots":[{"name":"flower_patch_yellow","bone":"root","attachment":"flower_patch_yellow"}],"skins":{"default":{"flower_patch_yellow":{"flower_patch_yellow":{"x":0.21,"y":8.93,"width":205,"height":194}}}},"animations":{"idle":{}}}

@@ -1,0 +1,12 @@
+
+bush_round_blue_rose.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bush_round_blue_rose
+  rotate: false
+  xy: 2, 2
+  size: 182, 201
+  orig: 186, 205
+  offset: 2, 2
+  index: -1

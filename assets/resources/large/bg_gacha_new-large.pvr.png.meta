@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "3c13af12-26a8-4124-aa47-4a4c3b485b34",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "bg_gacha_new-large.pvr": {
+      "ver": "1.0.3",
+      "uuid": "9566c1c2-08c3-4bae-bbe8-d10659995adb",
+      "rawTextureUuid": "3c13af12-26a8-4124-aa47-4a4c3b485b34",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 512,
+      "height": 384,
+      "rawWidth": 516,
+      "rawHeight": 388,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

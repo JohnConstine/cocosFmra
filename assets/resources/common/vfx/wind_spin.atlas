@@ -1,0 +1,26 @@
+
+wind_spin.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+power_start
+  rotate: false
+  xy: 724, 113
+  size: 89, 112
+  orig: 112, 125
+  offset: 13, 1
+  index: -1
+power_start_b
+  rotate: true
+  xy: 472, 2
+  size: 223, 250
+  orig: 225, 250
+  offset: 1, 0
+  index: -1
+power_tailb
+  rotate: false
+  xy: 2, 77
+  size: 468, 148
+  orig: 468, 150
+  offset: 0, 1
+  index: -1

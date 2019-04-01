@@ -1,0 +1,47 @@
+
+effect_level_up.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Text_EXP
+  rotate: false
+  xy: 867, 203
+  size: 86, 42
+  orig: 86, 42
+  offset: 0, 0
+  index: -1
+Text_LevelUp
+  rotate: false
+  xy: 639, 165
+  size: 226, 80
+  orig: 226, 80
+  offset: 0, 0
+  index: -1
+foon
+  rotate: false
+  xy: 740, 105
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+light_1
+  rotate: true
+  xy: 2, 2
+  size: 243, 382
+  orig: 247, 383
+  offset: 2, 1
+  index: -1
+light_2
+  rotate: false
+  xy: 386, 43
+  size: 251, 202
+  orig: 279, 295
+  offset: 14, 0
+  index: -1
+ring
+  rotate: false
+  xy: 639, 94
+  size: 99, 69
+  orig: 100, 70
+  offset: 1, 0
+  index: -1

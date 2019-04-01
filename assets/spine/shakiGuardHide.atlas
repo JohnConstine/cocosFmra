@@ -1,0 +1,19 @@
+
+shakiGuardHide.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shaki_03_04
+  rotate: true
+  xy: 158, 2
+  size: 85, 95
+  orig: 85, 95
+  offset: 0, 0
+  index: -1
+shaki_03_17
+  rotate: false
+  xy: 2, 44
+  size: 154, 43
+  orig: 154, 43
+  offset: 0, 0
+  index: -1

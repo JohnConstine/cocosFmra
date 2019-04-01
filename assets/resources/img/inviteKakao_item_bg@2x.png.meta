@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "f84455a9-2eed-4966-a69b-b6f1c0fd503d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "inviteKakao_item_bg@2x": {
+      "ver": "1.0.3",
+      "uuid": "57461db2-8289-4e17-818e-93ab278fdcff",
+      "rawTextureUuid": "f84455a9-2eed-4966-a69b-b6f1c0fd503d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 818,
+      "height": 90,
+      "rawWidth": 818,
+      "rawHeight": 90,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

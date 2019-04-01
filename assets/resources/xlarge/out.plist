@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>item1-xlarge.pvr.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-11,0}</string>
+                <key>spriteSize</key>
+                <string>{2022,2044}</string>
+                <key>spriteSourceSize</key>
+                <string>{2048,2048}</string>
+                <key>textureRect</key>
+                <string>{{1,1},{2022,2044}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>item1-xlarge.pvr.png</string>
+            <key>size</key>
+            <string>{2024,2046}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:c85e6f82eda7bf309b1975f5888e7794:c3181615b75e812ae06ba7546a271721:cb0fc00d67c5728da10f50dc3a71394a$</string>
+            <key>textureFileName</key>
+            <string>item1-xlarge.pvr.png</string>
+        </dict>
+    </dict>
+</plist>

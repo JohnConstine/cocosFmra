@@ -1,0 +1,12 @@
+
+barrow.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+barrow
+  rotate: false
+  xy: 2, 2
+  size: 254, 249
+  orig: 254, 249
+  offset: 0, 0
+  index: -1

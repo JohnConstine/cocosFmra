@@ -1,0 +1,1 @@
+{"bones":[{"name":"root"}],"slots":[{"name":"flower_tall_red","bone":"root","attachment":"flower_tall_red"}],"skins":{"default":{"flower_tall_red":{"flower_tall_red":{"x":-2.35,"y":23.47,"width":215,"height":231}}}},"animations":{"idle":{}}}

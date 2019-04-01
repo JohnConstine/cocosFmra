@@ -1,0 +1,12 @@
+
+bush_round_white_flower.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bush_round_white_flower
+  rotate: false
+  xy: 2, 2
+  size: 188, 210
+  orig: 192, 214
+  offset: 2, 2
+  index: -1

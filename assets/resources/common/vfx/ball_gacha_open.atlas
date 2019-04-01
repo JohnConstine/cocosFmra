@@ -1,0 +1,323 @@
+
+ball_gacha_open.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue_box
+  rotate: false
+  xy: 2, 2
+  size: 484, 114
+  orig: 484, 114
+  offset: 0, 0
+  index: -1
+blue_box_cap
+  rotate: false
+  xy: 2, 118
+  size: 522, 208
+  orig: 522, 208
+  offset: 0, 0
+  index: -1
+brown_box
+  rotate: false
+  xy: 526, 209
+  size: 484, 114
+  orig: 484, 114
+  offset: 0, 0
+  index: -1
+copper_a
+  rotate: true
+  xy: 873, 5
+  size: 86, 123
+  orig: 86, 123
+  offset: 0, 0
+  index: -1
+gacha_free_illustrate
+  rotate: true
+  xy: 629, 579
+  size: 420, 306
+  orig: 422, 306
+  offset: 2, 0
+  index: -1
+gacha_normal_illustrate
+  rotate: false
+  xy: 2, 678
+  size: 625, 321
+  orig: 625, 321
+  offset: 0, 0
+  index: -1
+gacha_premium_illustrate
+  rotate: false
+  xy: 2, 328
+  size: 594, 348
+  orig: 607, 378
+  offset: 10, 24
+  index: -1
+gacha_shine
+  rotate: false
+  xy: 937, 765
+  size: 58, 234
+  orig: 60, 234
+  offset: 1, 0
+  index: -1
+red_box
+  rotate: false
+  xy: 526, 93
+  size: 484, 114
+  orig: 484, 114
+  offset: 0, 0
+  index: -1
+ring_shine
+  rotate: false
+  xy: 598, 325
+  size: 252, 252
+  orig: 253, 253
+  offset: 1, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 937, 622
+  size: 141, 84
+  orig: 141, 84
+  offset: 0, 0
+  index: -1
+spot_light
+  rotate: false
+  xy: 852, 385
+  size: 149, 192
+  orig: 149, 192
+  offset: 0, 0
+  index: -1
+violet_a
+  rotate: true
+  xy: 488, 2
+  size: 89, 128
+  orig: 89, 128
+  offset: 0, 0
+  index: -1
+violet_v
+  rotate: true
+  xy: 747, 5
+  size: 86, 124
+  orig: 86, 124
+  offset: 0, 0
+  index: -1
+violet_y
+  rotate: true
+  xy: 618, 3
+  size: 88, 127
+  orig: 88, 127
+  offset: 0, 0
+  index: -1
+
+ball_gacha_open2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball_blue
+  rotate: false
+  xy: 541, 96
+  size: 464, 459
+  orig: 464, 459
+  offset: 0, 0
+  index: -1
+brown_box_cap
+  rotate: false
+  xy: 2, 800
+  size: 522, 208
+  orig: 522, 208
+  offset: 0, 0
+  index: -1
+brown_box_front
+  rotate: false
+  xy: 526, 557
+  size: 484, 451
+  orig: 484, 451
+  offset: 0, 0
+  index: -1
+copper_r
+  rotate: false
+  xy: 77, 8
+  size: 70, 129
+  orig: 70, 129
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 541, 2
+  size: 92, 92
+  orig: 97, 97
+  offset: 3, 2
+  index: -1
+gold_a
+  rotate: false
+  xy: 365, 14
+  size: 86, 123
+  orig: 86, 123
+  offset: 0, 0
+  index: -1
+gold_g
+  rotate: true
+  xy: 758, 17
+  size: 77, 121
+  orig: 77, 121
+  offset: 0, 0
+  index: -1
+gold_l
+  rotate: true
+  xy: 881, 29
+  size: 65, 123
+  orig: 65, 123
+  offset: 0, 0
+  index: -1
+gold_r
+  rotate: false
+  xy: 149, 8
+  size: 70, 129
+  orig: 70, 129
+  offset: 0, 0
+  index: -1
+gold_y
+  rotate: true
+  xy: 635, 10
+  size: 84, 121
+  orig: 84, 122
+  offset: 0, 1
+  index: -1
+red_box_cap
+  rotate: false
+  xy: 2, 590
+  size: 522, 208
+  orig: 522, 208
+  offset: 0, 0
+  index: -1
+red_box_front
+  rotate: false
+  xy: 2, 139
+  size: 484, 449
+  orig: 484, 449
+  offset: 0, 0
+  index: -1
+silver_a
+  rotate: false
+  xy: 453, 14
+  size: 86, 123
+  orig: 86, 123
+  offset: 0, 0
+  index: -1
+silver_r
+  rotate: false
+  xy: 221, 8
+  size: 70, 129
+  orig: 70, 129
+  offset: 0, 0
+  index: -1
+silver_s
+  rotate: false
+  xy: 293, 9
+  size: 70, 128
+  orig: 71, 128
+  offset: 0, 0
+  index: -1
+violet_r
+  rotate: false
+  xy: 2, 2
+  size: 73, 135
+  orig: 73, 135
+  offset: 0, 0
+  index: -1
+
+ball_gacha_open3.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball_green
+  rotate: false
+  xy: 2, 78
+  size: 464, 459
+  orig: 464, 459
+  offset: 0, 0
+  index: -1
+ball_red
+  rotate: false
+  xy: 488, 528
+  size: 464, 459
+  orig: 464, 459
+  offset: 0, 0
+  index: -1
+blue_box_front
+  rotate: false
+  xy: 2, 539
+  size: 484, 448
+  orig: 484, 448
+  offset: 0, 0
+  index: -1
+copper_e
+  rotate: false
+  xy: 468, 90
+  size: 62, 115
+  orig: 62, 115
+  offset: 0, 0
+  index: -1
+glitter1
+  rotate: false
+  xy: 805, 453
+  size: 73, 73
+  orig: 80, 80
+  offset: 3, 5
+  index: -1
+gold_d
+  rotate: false
+  xy: 670, 406
+  size: 69, 120
+  orig: 69, 120
+  offset: 0, 0
+  index: -1
+gold_e
+  rotate: false
+  xy: 541, 213
+  size: 62, 115
+  orig: 62, 115
+  offset: 0, 0
+  index: -1
+gold_n
+  rotate: true
+  xy: 2, 2
+  size: 74, 120
+  orig: 74, 120
+  offset: 0, 0
+  index: -1
+shine
+  rotate: false
+  xy: 468, 330
+  size: 200, 196
+  orig: 200, 204
+  offset: 0, 0
+  index: -1
+silver_e
+  rotate: false
+  xy: 741, 411
+  size: 62, 115
+  orig: 62, 115
+  offset: 0, 0
+  index: -1
+silver_p
+  rotate: false
+  xy: 954, 869
+  size: 67, 118
+  orig: 68, 118
+  offset: 0, 0
+  index: -1
+silver_u
+  rotate: false
+  xy: 468, 207
+  size: 71, 121
+  orig: 71, 121
+  offset: 0, 0
+  index: -1
+violet_e
+  rotate: true
+  xy: 124, 11
+  size: 65, 120
+  orig: 65, 120
+  offset: 0, 0
+  index: -1

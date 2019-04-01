@@ -1,0 +1,12 @@
+
+stonepath.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+stone_path
+  rotate: false
+  xy: 2, 2
+  size: 108, 83
+  orig: 110, 85
+  offset: 1, 1
+  index: -1

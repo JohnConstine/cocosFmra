@@ -1,0 +1,12 @@
+
+referree_stand.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+referree_stand
+  rotate: false
+  xy: 2, 2
+  size: 230, 371
+  orig: 230, 371
+  offset: 0, 0
+  index: -1

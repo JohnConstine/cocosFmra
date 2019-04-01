@@ -1,0 +1,96 @@
+
+fountain_1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fountain
+  rotate: true
+  xy: 2, 468
+  size: 388, 311
+  orig: 401, 329
+  offset: 7, 10
+  index: -1
+fountain0000
+  rotate: false
+  xy: 2, 220
+  size: 212, 246
+  orig: 212, 246
+  offset: 0, 0
+  index: -1
+fountain0001
+  rotate: true
+  xy: 2, 6
+  size: 212, 246
+  orig: 212, 246
+  offset: 0, 0
+  index: -1
+fountain0002
+  rotate: false
+  xy: 216, 220
+  size: 212, 246
+  orig: 212, 246
+  offset: 0, 0
+  index: -1
+fountain0003
+  rotate: true
+  xy: 250, 6
+  size: 212, 246
+  orig: 212, 246
+  offset: 0, 0
+  index: -1
+fountain0004
+  rotate: false
+  xy: 315, 610
+  size: 212, 246
+  orig: 212, 246
+  offset: 0, 0
+  index: -1
+fountain0005
+  rotate: false
+  xy: 430, 362
+  size: 212, 246
+  orig: 212, 246
+  offset: 0, 0
+  index: -1
+fountain0006
+  rotate: false
+  xy: 529, 610
+  size: 212, 246
+  orig: 212, 246
+  offset: 0, 0
+  index: -1
+fountain0007
+  rotate: true
+  xy: 743, 644
+  size: 212, 246
+  orig: 212, 246
+  offset: 0, 0
+  index: -1
+fountain0008
+  rotate: true
+  xy: 743, 430
+  size: 212, 246
+  orig: 212, 246
+  offset: 0, 0
+  index: -1
+fountain0009
+  rotate: true
+  xy: 644, 216
+  size: 212, 246
+  orig: 212, 246
+  offset: 0, 0
+  index: -1
+fountain0010
+  rotate: true
+  xy: 498, 2
+  size: 212, 246
+  orig: 212, 246
+  offset: 0, 0
+  index: -1
+fountain0011
+  rotate: true
+  xy: 746, 2
+  size: 212, 246
+  orig: 212, 246
+  offset: 0, 0
+  index: -1

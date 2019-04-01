@@ -1,0 +1,103 @@
+
+gate_lion.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flag_gate0000
+  rotate: false
+  xy: 693, 152
+  size: 35, 54
+  orig: 45, 61
+  offset: 0, 0
+  index: -1
+flag_gate0001
+  rotate: false
+  xy: 693, 208
+  size: 36, 55
+  orig: 45, 61
+  offset: 0, 0
+  index: -1
+flag_gate0002
+  rotate: false
+  xy: 693, 265
+  size: 37, 55
+  orig: 45, 61
+  offset: 0, 0
+  index: -1
+flag_gate0003
+  rotate: false
+  xy: 652, 265
+  size: 39, 55
+  orig: 45, 61
+  offset: 0, 0
+  index: -1
+flag_gate0004
+  rotate: false
+  xy: 652, 208
+  size: 39, 55
+  orig: 45, 61
+  offset: 0, 0
+  index: -1
+flag_gate0005
+  rotate: false
+  xy: 652, 153
+  size: 39, 53
+  orig: 45, 61
+  offset: 0, 0
+  index: -1
+flag_gate0006
+  rotate: false
+  xy: 732, 268
+  size: 38, 52
+  orig: 45, 61
+  offset: 0, 0
+  index: -1
+flag_gate0007
+  rotate: false
+  xy: 652, 100
+  size: 39, 51
+  orig: 45, 61
+  offset: 0, 0
+  index: -1
+flag_gate0008
+  rotate: false
+  xy: 693, 100
+  size: 39, 50
+  orig: 45, 61
+  offset: 0, 0
+  index: -1
+flag_gate0009
+  rotate: false
+  xy: 772, 269
+  size: 39, 51
+  orig: 45, 61
+  offset: 0, 0
+  index: -1
+flag_gate0010
+  rotate: false
+  xy: 652, 46
+  size: 38, 52
+  orig: 45, 61
+  offset: 0, 0
+  index: -1
+flag_gate0011
+  rotate: false
+  xy: 692, 46
+  size: 36, 52
+  orig: 45, 61
+  offset: 0, 0
+  index: -1
+gate2_close2
+  rotate: false
+  xy: 652, 322
+  size: 182, 228
+  orig: 182, 228
+  offset: 0, 0
+  index: -1
+gate2_lion_open
+  rotate: false
+  xy: 2, 2
+  size: 648, 548
+  orig: 648, 548
+  offset: 0, 0
+  index: -1

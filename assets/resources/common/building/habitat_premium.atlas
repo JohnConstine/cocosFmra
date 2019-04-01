@@ -1,0 +1,103 @@
+
+habitat_premium.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flag_tk70000
+  rotate: true
+  xy: 441, 463
+  size: 46, 69
+  orig: 54, 72
+  offset: 0, 0
+  index: -1
+flag_tk70001
+  rotate: false
+  xy: 441, 317
+  size: 48, 71
+  orig: 54, 72
+  offset: 0, 0
+  index: -1
+flag_tk70002
+  rotate: false
+  xy: 441, 390
+  size: 49, 71
+  orig: 54, 72
+  offset: 0, 0
+  index: -1
+flag_tk70003
+  rotate: false
+  xy: 387, 438
+  size: 52, 71
+  orig: 54, 72
+  offset: 0, 0
+  index: -1
+flag_tk70004
+  rotate: false
+  xy: 387, 366
+  size: 52, 70
+  orig: 54, 72
+  offset: 0, 0
+  index: -1
+flag_tk70005
+  rotate: false
+  xy: 387, 296
+  size: 52, 68
+  orig: 54, 72
+  offset: 0, 0
+  index: -1
+flag_tk70006
+  rotate: true
+  xy: 387, 177
+  size: 50, 66
+  orig: 54, 72
+  offset: 0, 0
+  index: -1
+flag_tk70007
+  rotate: false
+  xy: 387, 229
+  size: 52, 65
+  orig: 54, 72
+  offset: 0, 0
+  index: -1
+flag_tk70008
+  rotate: false
+  xy: 371, 111
+  size: 53, 64
+  orig: 54, 72
+  offset: 0, 0
+  index: -1
+flag_tk70009
+  rotate: false
+  xy: 371, 45
+  size: 52, 64
+  orig: 54, 72
+  offset: 0, 0
+  index: -1
+flag_tk70010
+  rotate: false
+  xy: 426, 109
+  size: 50, 66
+  orig: 54, 72
+  offset: 0, 0
+  index: -1
+flag_tk70011
+  rotate: false
+  xy: 441, 248
+  size: 48, 67
+  orig: 54, 72
+  offset: 0, 0
+  index: -1
+habitat_premium_front
+  rotate: false
+  xy: 2, 2
+  size: 367, 190
+  orig: 367, 190
+  offset: 0, 0
+  index: -1
+habitat_premium_real
+  rotate: false
+  xy: 2, 194
+  size: 383, 315
+  orig: 383, 315
+  offset: 0, 0
+  index: -1

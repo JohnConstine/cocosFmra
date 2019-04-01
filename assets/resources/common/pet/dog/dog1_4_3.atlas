@@ -1,0 +1,124 @@
+
+dog1_4_3.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cow/cow_l1_sprite/eye_blink
+  rotate: false
+  xy: 425, 73
+  size: 40, 7
+  orig: 40, 7
+  offset: 0, 0
+  index: -1
+cow/cow_l1_sprite/eye_hurt
+  rotate: true
+  xy: 436, 39
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+cow/cow_l1_sprite/shadow
+  rotate: false
+  xy: 118, 5
+  size: 83, 39
+  orig: 83, 39
+  offset: 0, 0
+  index: -1
+dog/dog.1.4.1/nose
+  rotate: true
+  xy: 333, 2
+  size: 23, 20
+  orig: 25, 20
+  offset: 1, 0
+  index: -1
+dog/dog.1.4.2/ear_l
+  rotate: false
+  xy: 233, 2
+  size: 55, 50
+  orig: 57, 51
+  offset: 1, 1
+  index: -1
+dog/dog.1.4.2/ear_r
+  rotate: false
+  xy: 425, 82
+  size: 52, 44
+  orig: 54, 45
+  offset: 1, 1
+  index: -1
+dog/dog.1.4.2/eye_l
+  rotate: false
+  xy: 290, 6
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+dog/dog.1.4.2/eye_l_sad
+  rotate: true
+  xy: 334, 27
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+dog/dog.1.4.2/eye_r
+  rotate: false
+  xy: 382, 30
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+dog/dog.1.4.2/eye_r_sad
+  rotate: false
+  xy: 409, 30
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+dog/dog.1.4.2/tail
+  rotate: false
+  xy: 436, 10
+  size: 27, 27
+  orig: 27, 28
+  offset: 0, 1
+  index: -1
+dog/dog.1.4.3/body
+  rotate: false
+  xy: 118, 46
+  size: 113, 80
+  orig: 115, 83
+  offset: 1, 1
+  index: -1
+dog/dog.1.4.3/cap
+  rotate: false
+  xy: 334, 70
+  size: 89, 56
+  orig: 91, 58
+  offset: 1, 1
+  index: -1
+dog/dog.1.4.3/head
+  rotate: false
+  xy: 2, 5
+  size: 114, 121
+  orig: 116, 124
+  offset: 1, 2
+  index: -1
+dog/dog.1.4.3/leg_lower
+  rotate: false
+  xy: 479, 83
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+dog/dog.1.4.3/leg_upper
+  rotate: false
+  xy: 203, 6
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+dog/dog.1.4.3/mouth
+  rotate: false
+  xy: 233, 54
+  size: 99, 72
+  orig: 100, 74
+  offset: 0, 1
+  index: -1

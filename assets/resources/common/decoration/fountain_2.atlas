@@ -1,0 +1,96 @@
+
+fountain_2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fountain
+  rotate: false
+  xy: 424, 11
+  size: 206, 131
+  orig: 206, 131
+  offset: 0, 0
+  index: -1
+fountain0000
+  rotate: false
+  xy: 2, 355
+  size: 140, 209
+  orig: 140, 209
+  offset: 0, 0
+  index: -1
+fountain0001
+  rotate: false
+  xy: 2, 144
+  size: 140, 209
+  orig: 140, 209
+  offset: 0, 0
+  index: -1
+fountain0002
+  rotate: false
+  xy: 144, 355
+  size: 140, 209
+  orig: 140, 209
+  offset: 0, 0
+  index: -1
+fountain0003
+  rotate: false
+  xy: 144, 144
+  size: 140, 209
+  orig: 140, 209
+  offset: 0, 0
+  index: -1
+fountain0004
+  rotate: true
+  xy: 2, 2
+  size: 140, 209
+  orig: 140, 209
+  offset: 0, 0
+  index: -1
+fountain0005
+  rotate: false
+  xy: 286, 355
+  size: 140, 209
+  orig: 140, 209
+  offset: 0, 0
+  index: -1
+fountain0006
+  rotate: false
+  xy: 286, 144
+  size: 140, 209
+  orig: 140, 209
+  offset: 0, 0
+  index: -1
+fountain0007
+  rotate: true
+  xy: 213, 2
+  size: 140, 209
+  orig: 140, 209
+  offset: 0, 0
+  index: -1
+fountain0008
+  rotate: false
+  xy: 428, 355
+  size: 140, 209
+  orig: 140, 209
+  offset: 0, 0
+  index: -1
+fountain0009
+  rotate: false
+  xy: 428, 144
+  size: 140, 209
+  orig: 140, 209
+  offset: 0, 0
+  index: -1
+fountain0010
+  rotate: false
+  xy: 570, 355
+  size: 140, 209
+  orig: 140, 209
+  offset: 0, 0
+  index: -1
+fountain0011
+  rotate: false
+  xy: 570, 144
+  size: 140, 209
+  orig: 140, 209
+  offset: 0, 0
+  index: -1

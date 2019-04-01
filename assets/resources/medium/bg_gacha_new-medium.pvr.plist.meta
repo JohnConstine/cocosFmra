@@ -1,0 +1,34 @@
+{
+  "ver": "1.2.4",
+  "uuid": "95f6e078-b5e3-45c1-b2fa-4152a267e46b",
+  "rawTextureUuid": "2c5132af-cdcc-42b1-bdcf-ccdd55ba28c9",
+  "size": {
+    "width": 1026,
+    "height": 1026
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "bg_gacha_new-medium.pvr.ccz": {
+      "ver": "1.0.3",
+      "uuid": "033d0273-5ba3-479b-81be-3dab0abfb6a5",
+      "rawTextureUuid": "2c5132af-cdcc-42b1-bdcf-ccdd55ba28c9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 1024,
+      "height": 1024,
+      "rawWidth": 1024,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

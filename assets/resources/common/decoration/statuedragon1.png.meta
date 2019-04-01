@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "beb5fae3-4fd3-4cf9-930b-d491e58e55e3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "statuedragon1": {
+      "ver": "1.0.3",
+      "uuid": "96a9948b-a415-479e-b380-df205974e5e4",
+      "rawTextureUuid": "beb5fae3-4fd3-4cf9-930b-d491e58e55e3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 264,
+      "height": 348,
+      "rawWidth": 268,
+      "rawHeight": 352,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

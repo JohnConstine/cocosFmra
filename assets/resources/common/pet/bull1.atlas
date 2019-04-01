@@ -1,0 +1,117 @@
+
+bull1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bull/bull_sprite/body
+  rotate: true
+  xy: 144, 4
+  size: 122, 106
+  orig: 123, 107
+  offset: 0, 1
+  index: -1
+bull/bull_sprite/ear
+  rotate: true
+  xy: 365, 76
+  size: 50, 42
+  orig: 51, 44
+  offset: 0, 1
+  index: -1
+bull/bull_sprite/eye_l
+  rotate: false
+  xy: 379, 28
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+bull/bull_sprite/eye_l_sad
+  rotate: false
+  xy: 409, 80
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+bull/bull_sprite/eye_r
+  rotate: false
+  xy: 452, 88
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+bull/bull_sprite/eye_r_sad
+  rotate: false
+  xy: 479, 88
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+bull/bull_sprite/head
+  rotate: true
+  xy: 2, 4
+  size: 122, 140
+  orig: 122, 141
+  offset: 0, 0
+  index: -1
+bull/bull_sprite/leg_lower
+  rotate: true
+  xy: 449, 52
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+bull/bull_sprite/leg_upper
+  rotate: true
+  xy: 379, 2
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+bull/bull_sprite/nose
+  rotate: true
+  xy: 318, 67
+  size: 59, 45
+  orig: 61, 47
+  offset: 1, 1
+  index: -1
+bull/bull_sprite/smoke
+  rotate: false
+  xy: 252, 62
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+bull/bull_sprite/smoke_trail
+  rotate: true
+  xy: 422, 15
+  size: 63, 25
+  orig: 64, 25
+  offset: 0, 0
+  index: -1
+bull/bull_sprite/tail
+  rotate: true
+  xy: 337, 10
+  size: 55, 40
+  orig: 56, 41
+  offset: 0, 1
+  index: -1
+cow/cow_l1_sprite/eye_blink
+  rotate: false
+  xy: 252, 12
+  size: 40, 7
+  orig: 40, 7
+  offset: 0, 0
+  index: -1
+cow/cow_l1_sprite/eye_hurt
+  rotate: true
+  xy: 449, 18
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+cow/cow_l1_sprite/shadow
+  rotate: false
+  xy: 252, 21
+  size: 83, 39
+  orig: 83, 39
+  offset: 0, 0
+  index: -1

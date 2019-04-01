@@ -1,0 +1,96 @@
+
+food_maker_5-1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+food50000
+  rotate: true
+  xy: 2, 290
+  size: 286, 210
+  orig: 286, 210
+  offset: 0, 0
+  index: -1
+food50001
+  rotate: true
+  xy: 2, 2
+  size: 286, 210
+  orig: 286, 210
+  offset: 0, 0
+  index: -1
+food50002
+  rotate: true
+  xy: 214, 290
+  size: 286, 210
+  orig: 286, 210
+  offset: 0, 0
+  index: -1
+food50003
+  rotate: true
+  xy: 214, 2
+  size: 286, 210
+  orig: 286, 210
+  offset: 0, 0
+  index: -1
+food50004
+  rotate: true
+  xy: 319, 697
+  size: 286, 210
+  orig: 286, 210
+  offset: 0, 0
+  index: -1
+food50005
+  rotate: false
+  xy: 426, 485
+  size: 286, 210
+  orig: 286, 210
+  offset: 0, 0
+  index: -1
+food50006
+  rotate: true
+  xy: 531, 697
+  size: 286, 210
+  orig: 286, 210
+  offset: 0, 0
+  index: -1
+food50007
+  rotate: true
+  xy: 714, 409
+  size: 286, 210
+  orig: 286, 210
+  offset: 0, 0
+  index: -1
+food50008
+  rotate: true
+  xy: 743, 697
+  size: 286, 210
+  orig: 286, 210
+  offset: 0, 0
+  index: -1
+food50009
+  rotate: false
+  xy: 426, 273
+  size: 286, 210
+  orig: 286, 210
+  offset: 0, 0
+  index: -1
+food50010
+  rotate: true
+  xy: 714, 121
+  size: 286, 210
+  orig: 286, 210
+  offset: 0, 0
+  index: -1
+food50011
+  rotate: false
+  xy: 426, 61
+  size: 286, 210
+  orig: 286, 210
+  offset: 0, 0
+  index: -1
+food_idle
+  rotate: false
+  xy: 2, 578
+  size: 315, 405
+  orig: 315, 405
+  offset: 0, 0
+  index: -1

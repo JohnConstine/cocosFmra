@@ -1,0 +1,12 @@
+
+fans.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+portrait
+  rotate: false
+  xy: 2, 2
+  size: 442, 423
+  orig: 460, 428
+  offset: 0, 0
+  index: -1

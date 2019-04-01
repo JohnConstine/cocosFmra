@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "08a3ad09-7e39-452b-a89f-5d52d920151f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "gacha_pet_0.pvr": {
+      "ver": "1.0.3",
+      "uuid": "f5d5e405-b680-4907-a34a-fee019c41dcf",
+      "rawTextureUuid": "08a3ad09-7e39-452b-a89f-5d52d920151f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 2,
+      "trimY": 3,
+      "width": 1998,
+      "height": 2043,
+      "rawWidth": 2002,
+      "rawHeight": 2048,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

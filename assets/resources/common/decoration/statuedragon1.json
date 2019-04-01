@@ -1,0 +1,1 @@
+{"bones":[{"name":"root"}],"slots":[{"name":"statuedragon1","bone":"root","attachment":"statuedragon1"}],"skins":{"default":{"statuedragon1":{"statuedragon1":{"x":25.61,"y":84.05,"scaleX":0.75,"scaleY":0.75,"width":268,"height":352}}}},"animations":{"idle":{}}}

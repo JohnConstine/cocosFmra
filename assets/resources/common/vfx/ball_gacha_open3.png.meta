@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "fa95f3b0-f12f-43c0-adff-2f5c3013360a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "ball_gacha_open3": {
+      "ver": "1.0.3",
+      "uuid": "9a12ddd2-0995-4346-bf2d-3240cb0b7bc3",
+      "rawTextureUuid": "fa95f3b0-f12f-43c0-adff-2f5c3013360a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 17.5,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 1019,
+      "height": 985,
+      "rawWidth": 1024,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,12 @@
+
+smoke_falling.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+run_smoke_op3
+  rotate: false
+  xy: 2, 2
+  size: 102, 105
+  orig: 102, 105
+  offset: 0, 0
+  index: -1

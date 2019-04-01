@@ -1,0 +1,12 @@
+
+garage_5.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+garage
+  rotate: false
+  xy: 2, 2
+  size: 290, 359
+  orig: 290, 359
+  offset: 0, 0
+  index: -1

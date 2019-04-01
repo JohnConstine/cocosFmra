@@ -1,0 +1,24 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "inlineSpriteFrames": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "com.more.farm",
+  "privateKey": "",
+  "renderMode": "0",
+  "startScene": "5e343005-3196-4e7d-a50e-608e9c415bf5",
+  "title": "farm",
+  "webOrientation": "auto"
+}

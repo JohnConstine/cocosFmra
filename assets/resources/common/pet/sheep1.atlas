@@ -1,0 +1,96 @@
+
+sheep1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cow/cow_l1_sprite/eye_blink
+  rotate: false
+  xy: 2, 2
+  size: 40, 7
+  orig: 40, 7
+  offset: 0, 0
+  index: -1
+cow/cow_l1_sprite/eye_hurt
+  rotate: true
+  xy: 308, 140
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+cow/cow_l1_sprite/shadow
+  rotate: false
+  xy: 2, 81
+  size: 83, 39
+  orig: 83, 39
+  offset: 0, 0
+  index: -1
+sheep/sheep_01_sprite/body
+  rotate: false
+  xy: 2, 122
+  size: 160, 132
+  orig: 162, 134
+  offset: 1, 1
+  index: -1
+sheep/sheep_01_sprite/ear
+  rotate: false
+  xy: 308, 214
+  size: 59, 40
+  orig: 60, 42
+  offset: 0, 1
+  index: -1
+sheep/sheep_01_sprite/eye
+  rotate: false
+  xy: 2, 38
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+sheep/sheep_01_sprite/eye_l_sad
+  rotate: true
+  xy: 87, 83
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+sheep/sheep_01_sprite/eye_r
+  rotate: true
+  xy: 2, 11
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+sheep/sheep_01_sprite/eye_r_sad
+  rotate: false
+  xy: 308, 174
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+sheep/sheep_01_sprite/head
+  rotate: false
+  xy: 164, 122
+  size: 142, 132
+  orig: 144, 134
+  offset: 1, 1
+  index: -1
+sheep/sheep_01_sprite/leg_lower
+  rotate: false
+  xy: 130, 84
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+sheep/sheep_01_sprite/leg_upper
+  rotate: false
+  xy: 369, 215
+  size: 25, 39
+  orig: 25, 39
+  offset: 0, 0
+  index: -1
+sheep/sheep_01_sprite/nose
+  rotate: false
+  xy: 336, 204
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1

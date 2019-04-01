@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "6812dcaa-71df-4112-8bd2-68e09bdf49f1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "icon_building-medium.pvr": {
+      "ver": "1.0.3",
+      "uuid": "80ee86c3-2c1d-44c8-803b-c4530279e7dd",
+      "rawTextureUuid": "6812dcaa-71df-4112-8bd2-68e09bdf49f1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 494,
+      "height": 508,
+      "rawWidth": 498,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

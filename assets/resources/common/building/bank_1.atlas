@@ -1,0 +1,12 @@
+
+bank_1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bank
+  rotate: false
+  xy: 2, 2
+  size: 341, 384
+  orig: 341, 394
+  offset: 0, 1
+  index: -1

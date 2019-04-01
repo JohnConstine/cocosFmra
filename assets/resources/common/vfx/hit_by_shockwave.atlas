@@ -1,0 +1,40 @@
+
+hit_by_shockwave.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hit_center_fx_hardlight
+  rotate: true
+  xy: 517, 154
+  size: 192, 220
+  orig: 192, 220
+  offset: 0, 0
+  index: -1
+hit_ring_big
+  rotate: false
+  xy: 322, 119
+  size: 193, 227
+  orig: 193, 227
+  offset: 0, 0
+  index: -1
+hit_ring_small
+  rotate: true
+  xy: 322, 9
+  size: 108, 127
+  orig: 108, 127
+  offset: 0, 0
+  index: -1
+hit_star_big
+  rotate: false
+  xy: 2, 2
+  size: 318, 344
+  orig: 318, 344
+  offset: 0, 0
+  index: -1
+hit_star_small
+  rotate: true
+  xy: 517, 12
+  size: 140, 168
+  orig: 140, 168
+  offset: 0, 0
+  index: -1

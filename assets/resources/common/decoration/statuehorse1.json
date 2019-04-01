@@ -1,0 +1,1 @@
+{"bones":[{"name":"root"}],"slots":[{"name":"statuehorse1","bone":"root","attachment":"statuehorse1"}],"skins":{"default":{"statuehorse1":{"statuehorse1":{"x":-1.88,"y":76.61,"scaleX":0.65,"scaleY":0.65,"width":198,"height":385}}}},"animations":{"idle":{}}}

@@ -1,0 +1,12 @@
+
+flower_tall_red.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flower_tall_red
+  rotate: false
+  xy: 2, 2
+  size: 215, 231
+  orig: 215, 231
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,1 @@
+{"bones":[{"name":"root"},{"name":"bone","parent":"root","length":204.9,"rotation":90}],"slots":[{"name":"root","bone":"bone","attachment":"garage"}],"skins":{"default":{"root":{"garage":{"x":101.33,"y":-1,"rotation":-90,"width":387,"height":457}}}},"animations":{"idle":{}}}

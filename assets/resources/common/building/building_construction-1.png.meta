@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "abeae493-fdc8-48a7-b438-a1f12a10ad49",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "building_construction-1": {
+      "ver": "1.0.3",
+      "uuid": "9573168b-0e3f-4ca0-994c-a8a60b3055b0",
+      "rawTextureUuid": "abeae493-fdc8-48a7-b438-a1f12a10ad49",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 1096,
+      "height": 719,
+      "rawWidth": 1100,
+      "rawHeight": 723,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

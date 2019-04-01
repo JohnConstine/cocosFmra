@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "dd3f8289-4b7c-4b6f-915e-1c09a4a2e792",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "BgEpisodeGage01": {
+      "ver": "1.0.3",
+      "uuid": "aacb32f1-3483-4b57-ba53-9bebc2c2cdc4",
+      "rawTextureUuid": "dd3f8289-4b7c-4b6f-915e-1c09a4a2e792",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 171,
+      "height": 23,
+      "rawWidth": 171,
+      "rawHeight": 23,
+      "borderTop": 11,
+      "borderBottom": 12,
+      "borderLeft": 24,
+      "borderRight": 26,
+      "subMetas": {}
+    }
+  }
+}

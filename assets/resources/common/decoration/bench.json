@@ -1,0 +1,1 @@
+{"bones":[{"name":"root"},{"name":"bone","parent":"root","length":164.7,"rotation":90}],"slots":[{"name":"root","bone":"root"},{"name":"bench","bone":"bone","attachment":"bench"}],"skins":{"default":{"bench":{"bench":{"x":30.83,"y":-3.18,"rotation":-90,"width":184,"height":213}}}},"animations":{"dle":{}}}

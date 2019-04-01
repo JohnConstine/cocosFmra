@@ -1,0 +1,96 @@
+
+fox1_1_1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cow/cow_l1_sprite/eye_hurt
+  rotate: false
+  xy: 181, 26
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+cow/cow_l1_sprite/shadow
+  rotate: false
+  xy: 245, 87
+  size: 83, 39
+  orig: 83, 39
+  offset: 0, 0
+  index: -1
+fox/fox.1.1.1/body
+  rotate: false
+  xy: 136, 53
+  size: 107, 73
+  orig: 109, 74
+  offset: 1, 1
+  index: -1
+fox/fox.1.1.1/ear
+  rotate: true
+  xy: 330, 75
+  size: 51, 65
+  orig: 53, 67
+  offset: 1, 1
+  index: -1
+fox/fox.1.1.1/head
+  rotate: false
+  xy: 2, 18
+  size: 132, 108
+  orig: 133, 108
+  offset: 0, 0
+  index: -1
+fox/fox.1.1.1/head_prop
+  rotate: false
+  xy: 458, 91
+  size: 39, 35
+  orig: 39, 36
+  offset: 0, 1
+  index: -1
+fox/fox.1.1.1/leg_lower
+  rotate: true
+  xy: 136, 25
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+fox/fox.1.1.1/leg_upper
+  rotate: true
+  xy: 245, 59
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+fox/fox.1.1.1/nose
+  rotate: false
+  xy: 2, 2
+  size: 20, 14
+  orig: 22, 16
+  offset: 1, 1
+  index: -1
+fox/fox.1.1.1/tail
+  rotate: false
+  xy: 397, 85
+  size: 59, 41
+  orig: 63, 42
+  offset: 3, 1
+  index: -1
+fox/fox_sprite/eye
+  rotate: false
+  xy: 215, 35
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+fox/fox_sprite/eye_blink
+  rotate: false
+  xy: 24, 7
+  size: 36, 9
+  orig: 36, 9
+  offset: 0, 0
+  index: -1
+fox/fox_sprite/eye_sad
+  rotate: false
+  xy: 285, 60
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1

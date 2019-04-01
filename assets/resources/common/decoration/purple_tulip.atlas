@@ -1,0 +1,12 @@
+
+purple_tulip.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tulip_blue
+  rotate: false
+  xy: 2, 2
+  size: 91, 77
+  orig: 91, 77
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,12 @@
+
+market_5.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+petshop5
+  rotate: false
+  xy: 2, 2
+  size: 386, 463
+  orig: 386, 463
+  offset: 0, 0
+  index: -1

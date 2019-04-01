@@ -1,0 +1,12 @@
+
+bench.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bench
+  rotate: false
+  xy: 2, 2
+  size: 184, 210
+  orig: 184, 213
+  offset: 0, 3
+  index: -1

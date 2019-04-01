@@ -1,0 +1,12 @@
+
+training_gym_4.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gym4
+  rotate: false
+  xy: 2, 2
+  size: 335, 365
+  orig: 335, 365
+  offset: 0, 0
+  index: -1

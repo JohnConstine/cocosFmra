@@ -1,0 +1,1 @@
+{"bones":[{"name":"root"}],"slots":[{"name":"tree_winter_dec_2","bone":"root"},{"name":"sled","bone":"root","attachment":"sled"}],"skins":{"default":{"sled":{"sled":{"x":-2.13,"y":3.48,"width":291,"height":264}}}},"animations":{"idle":{}}}

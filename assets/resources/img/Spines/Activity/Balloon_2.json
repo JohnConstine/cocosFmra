@@ -1,0 +1,1 @@
+{"bones":[{"name":"root"}],"slots":[{"name":"balloon_2","bone":"root","attachment":"balloon_2"}],"skins":{"default":{"balloon_2":{"balloon_2":{"x":5,"y":-7,"width":177,"height":147}}}},"animations":{"idle":{}}}

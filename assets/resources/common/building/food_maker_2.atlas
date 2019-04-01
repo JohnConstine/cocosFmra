@@ -1,0 +1,89 @@
+
+food_maker_2-1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+food20000
+  rotate: false
+  xy: 2, 514
+  size: 250, 254
+  orig: 250, 254
+  offset: 0, 0
+  index: -1
+food20001
+  rotate: false
+  xy: 2, 258
+  size: 250, 254
+  orig: 250, 254
+  offset: 0, 0
+  index: -1
+food20002
+  rotate: false
+  xy: 254, 514
+  size: 250, 254
+  orig: 250, 254
+  offset: 0, 0
+  index: -1
+food20003
+  rotate: false
+  xy: 2, 2
+  size: 250, 254
+  orig: 250, 254
+  offset: 0, 0
+  index: -1
+food20004
+  rotate: false
+  xy: 254, 258
+  size: 250, 254
+  orig: 250, 254
+  offset: 0, 0
+  index: -1
+food20005
+  rotate: false
+  xy: 506, 514
+  size: 250, 254
+  orig: 250, 254
+  offset: 0, 0
+  index: -1
+food20006
+  rotate: false
+  xy: 254, 2
+  size: 250, 254
+  orig: 250, 254
+  offset: 0, 0
+  index: -1
+food20007
+  rotate: false
+  xy: 506, 258
+  size: 250, 254
+  orig: 250, 254
+  offset: 0, 0
+  index: -1
+food20008
+  rotate: false
+  xy: 758, 514
+  size: 250, 254
+  orig: 250, 254
+  offset: 0, 0
+  index: -1
+food20009
+  rotate: false
+  xy: 506, 2
+  size: 250, 254
+  orig: 250, 254
+  offset: 0, 0
+  index: -1
+food20010
+  rotate: false
+  xy: 758, 258
+  size: 250, 254
+  orig: 250, 254
+  offset: 0, 0
+  index: -1
+food20011
+  rotate: false
+  xy: 758, 2
+  size: 250, 254
+  orig: 250, 254
+  offset: 0, 0
+  index: -1

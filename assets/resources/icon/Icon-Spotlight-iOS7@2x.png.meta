@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "41fb9e9d-2076-418f-80c7-8a2f5d44dbd3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Icon-Spotlight-iOS7@2x": {
+      "ver": "1.0.3",
+      "uuid": "11931360-7c6a-4fce-9853-bad0d930049b",
+      "rawTextureUuid": "41fb9e9d-2076-418f-80c7-8a2f5d44dbd3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 80,
+      "height": 80,
+      "rawWidth": 80,
+      "rawHeight": 80,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

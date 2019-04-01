@@ -1,0 +1,12 @@
+
+flower_tall_purple.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flower_tall_purple
+  rotate: false
+  xy: 2, 2
+  size: 209, 200
+  orig: 209, 200
+  offset: 0, 0
+  index: -1

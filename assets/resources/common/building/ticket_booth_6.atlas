@@ -1,0 +1,96 @@
+
+ticket_booth_6.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flag_tk70000
+  rotate: false
+  xy: 470, 193
+  size: 40, 61
+  orig: 47, 64
+  offset: 0, 0
+  index: -1
+flag_tk70001
+  rotate: false
+  xy: 330, 126
+  size: 41, 63
+  orig: 47, 64
+  offset: 0, 0
+  index: -1
+flag_tk70002
+  rotate: false
+  xy: 330, 191
+  size: 43, 63
+  orig: 47, 64
+  offset: 0, 0
+  index: -1
+flag_tk70003
+  rotate: false
+  xy: 283, 191
+  size: 45, 63
+  orig: 47, 64
+  offset: 0, 0
+  index: -1
+flag_tk70004
+  rotate: false
+  xy: 283, 127
+  size: 45, 62
+  orig: 47, 64
+  offset: 0, 0
+  index: -1
+flag_tk70005
+  rotate: false
+  xy: 283, 64
+  size: 45, 61
+  orig: 47, 64
+  offset: 0, 0
+  index: -1
+flag_tk70006
+  rotate: false
+  xy: 330, 66
+  size: 44, 58
+  orig: 47, 64
+  offset: 0, 0
+  index: -1
+flag_tk70007
+  rotate: false
+  xy: 375, 196
+  size: 45, 58
+  orig: 47, 64
+  offset: 0, 0
+  index: -1
+flag_tk70008
+  rotate: false
+  xy: 422, 197
+  size: 46, 57
+  orig: 47, 64
+  offset: 0, 0
+  index: -1
+flag_tk70009
+  rotate: false
+  xy: 373, 132
+  size: 45, 57
+  orig: 47, 64
+  offset: 0, 0
+  index: -1
+flag_tk70010
+  rotate: false
+  xy: 327, 4
+  size: 44, 58
+  orig: 47, 64
+  offset: 0, 0
+  index: -1
+flag_tk70011
+  rotate: false
+  xy: 283, 2
+  size: 42, 60
+  orig: 47, 64
+  offset: 0, 0
+  index: -1
+ticket6
+  rotate: true
+  xy: 2, 3
+  size: 251, 279
+  orig: 251, 285
+  offset: 0, 6
+  index: -1

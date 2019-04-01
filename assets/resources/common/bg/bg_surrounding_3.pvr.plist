@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>bg_surrounding_3.pvr.ccz</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{1024,1024}</string>
+                <key>spriteSourceSize</key>
+                <string>{1024,1024}</string>
+                <key>textureRect</key>
+                <string>{{1,1},{1024,1024}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>bg_surrounding_3.pvr.png</string>
+            <key>size</key>
+            <string>{1026,1026}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:3083f8f3b47d150fdc183fefc475d084:88afe61211229a78822e3176a9315b2e:13f93991fa642c1eb6a04a500a7652e1$</string>
+            <key>textureFileName</key>
+            <string>bg_surrounding_3.pvr.png</string>
+        </dict>
+    </dict>
+</plist>

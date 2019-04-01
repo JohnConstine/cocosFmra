@@ -1,0 +1,66 @@
+
+ranch_level_up.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+levelup_word
+  rotate: false
+  xy: 2, 513
+  size: 925, 316
+  orig: 925, 316
+  offset: 0, 0
+  index: -1
+levelup_word_light
+  rotate: true
+  xy: 929, 582
+  size: 247, 93
+  orig: 247, 93
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 455, 4
+  size: 528, 483
+  orig: 554, 656
+  offset: 17, 84
+  index: -1
+merchant
+  rotate: false
+  xy: 2, 2
+  size: 451, 509
+  orig: 451, 509
+  offset: 0, 0
+  index: -1
+particle light
+  rotate: false
+  xy: 929, 489
+  size: 91, 91
+  orig: 116, 115
+  offset: 13, 12
+  index: -1
+ribbon
+  rotate: false
+  xy: 2, 831
+  size: 934, 185
+  orig: 934, 185
+  offset: 0, 0
+  index: -1
+
+ranch_level_up2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ranch_sign
+  rotate: false
+  xy: 319, 192
+  size: 300, 309
+  orig: 300, 309
+  offset: 0, 0
+  index: -1
+uncle
+  rotate: false
+  xy: 2, 2
+  size: 315, 499
+  orig: 315, 499
+  offset: 0, 0
+  index: -1

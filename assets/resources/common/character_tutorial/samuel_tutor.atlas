@@ -1,0 +1,43 @@
+
+samuel_tutor.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Uncle_Appointment
+  rotate: false
+  xy: 2, 2
+  size: 629, 998
+  orig: 663, 1032
+  offset: 20, 3
+  index: -1
+shadow
+  rotate: false
+  xy: 633, 913
+  size: 344, 87
+  orig: 344, 87
+  offset: 0, 0
+  index: -1
+
+samuel_tutor2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Uncle_Explain
+  rotate: false
+  xy: 2, 2
+  size: 629, 998
+  orig: 664, 1032
+  offset: 20, 3
+  index: -1
+
+samuel_tutor3.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Uncle_Normal
+  rotate: false
+  xy: 2, 2
+  size: 629, 998
+  orig: 664, 1032
+  offset: 20, 3
+  index: -1

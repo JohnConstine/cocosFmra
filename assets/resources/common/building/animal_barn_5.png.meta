@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "9b2e615d-3db7-440b-a918-15e7ceb922d4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "animal_barn_5": {
+      "ver": "1.0.3",
+      "uuid": "f520936e-ae76-44ac-a377-0bcf0f9de915",
+      "rawTextureUuid": "9b2e615d-3db7-440b-a918-15e7ceb922d4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -79.5,
+      "offsetY": 65,
+      "trimX": 4,
+      "trimY": 2,
+      "width": 345,
+      "height": 378,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

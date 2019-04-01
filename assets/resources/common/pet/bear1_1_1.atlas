@@ -1,0 +1,124 @@
+
+bear1_1_1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bear/bear.1.1.1/body
+  rotate: true
+  xy: 139, 107
+  size: 147, 114
+  orig: 149, 115
+  offset: 1, 1
+  index: -1
+bear/bear.1.1.1/ear_l
+  rotate: false
+  xy: 2, 17
+  size: 48, 46
+  orig: 50, 47
+  offset: 1, 1
+  index: -1
+bear/bear.1.1.1/ear_r
+  rotate: false
+  xy: 128, 20
+  size: 43, 41
+  orig: 45, 42
+  offset: 1, 1
+  index: -1
+bear/bear.1.1.1/eye_l_sad
+  rotate: true
+  xy: 87, 63
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+bear/bear.1.1.1/eye_r_sad
+  rotate: true
+  xy: 184, 79
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+bear/bear.1.1.1/head
+  rotate: false
+  xy: 2, 106
+  size: 135, 148
+  orig: 136, 150
+  offset: 0, 1
+  index: -1
+bear/bear.1.1.1/leg_lower
+  rotate: false
+  xy: 52, 20
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+bear/bear.1.1.1/leg_upper
+  rotate: false
+  xy: 173, 2
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+bear/bear.1.1.1/legfront_lower
+  rotate: true
+  xy: 139, 79
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+bear/bear.1.1.1/legfront_upper
+  rotate: false
+  xy: 201, 2
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+bear/bear.1.1.1/tail
+  rotate: false
+  xy: 173, 42
+  size: 35, 35
+  orig: 37, 37
+  offset: 1, 1
+  index: -1
+bear/bear_sprite/eye
+  rotate: true
+  xy: 80, 20
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+bear/bear_sprite/eye_r
+  rotate: false
+  xy: 224, 68
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+bear/bear_sprite/nose
+  rotate: false
+  xy: 210, 48
+  size: 23, 18
+  orig: 24, 19
+  offset: 0, 1
+  index: -1
+cow/cow_l1_sprite/eye_blink
+  rotate: false
+  xy: 2, 8
+  size: 40, 7
+  orig: 40, 7
+  offset: 0, 0
+  index: -1
+cow/cow_l1_sprite/eye_hurt
+  rotate: true
+  xy: 228, 14
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+cow/cow_l1_sprite/shadow
+  rotate: false
+  xy: 2, 65
+  size: 83, 39
+  orig: 83, 39
+  offset: 0, 0
+  index: -1

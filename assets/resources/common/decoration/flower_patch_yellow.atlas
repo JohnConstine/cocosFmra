@@ -1,0 +1,12 @@
+
+flower_patch_yellow.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flower_patch_yellow
+  rotate: false
+  xy: 2, 2
+  size: 205, 194
+  orig: 205, 194
+  offset: 0, 0
+  index: -1

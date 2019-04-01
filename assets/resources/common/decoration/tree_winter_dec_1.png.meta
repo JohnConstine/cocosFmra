@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "a329d939-91fb-41ae-84fe-08ed59be8d4a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "tree_winter_dec_1": {
+      "ver": "1.0.3",
+      "uuid": "26da94e5-1587-49eb-aa58-2179e9924bae",
+      "rawTextureUuid": "a329d939-91fb-41ae-84fe-08ed59be8d4a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 167,
+      "height": 297,
+      "rawWidth": 171,
+      "rawHeight": 301,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

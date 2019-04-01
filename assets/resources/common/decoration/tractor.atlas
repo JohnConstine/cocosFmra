@@ -1,0 +1,12 @@
+
+tractor.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tractor
+  rotate: false
+  xy: 2, 2
+  size: 336, 306
+  orig: 340, 308
+  offset: 4, 2
+  index: -1

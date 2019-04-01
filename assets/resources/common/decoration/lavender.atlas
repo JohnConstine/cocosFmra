@@ -1,0 +1,12 @@
+
+lavender.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fern
+  rotate: false
+  xy: 2, 2
+  size: 164, 153
+  orig: 164, 153
+  offset: 0, 0
+  index: -1

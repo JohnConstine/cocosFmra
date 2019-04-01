@@ -1,0 +1,12 @@
+
+snow_man.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+snow_man
+  rotate: false
+  xy: 2, 2
+  size: 131, 186
+  orig: 135, 190
+  offset: 2, 2
+  index: -1

@@ -1,0 +1,96 @@
+
+hq_1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flag_hq0001
+  rotate: false
+  xy: 590, 427
+  size: 41, 54
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+flag_hq0002
+  rotate: false
+  xy: 465, 194
+  size: 41, 54
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+flag_hq0003
+  rotate: false
+  xy: 465, 307
+  size: 41, 55
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+flag_hq0004
+  rotate: false
+  xy: 465, 364
+  size: 41, 57
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+flag_hq0005
+  rotate: false
+  xy: 465, 423
+  size: 41, 58
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+flag_hq0006
+  rotate: false
+  xy: 508, 422
+  size: 39, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+flag_hq0007
+  rotate: false
+  xy: 508, 361
+  size: 37, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+flag_hq0008
+  rotate: true
+  xy: 633, 446
+  size: 35, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+flag_hq0009
+  rotate: false
+  xy: 465, 133
+  size: 35, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+flag_hq0010
+  rotate: false
+  xy: 508, 301
+  size: 37, 58
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+flag_hq0011
+  rotate: false
+  xy: 549, 424
+  size: 39, 57
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+flag_hq0012
+  rotate: false
+  xy: 465, 250
+  size: 41, 55
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+hq1
+  rotate: false
+  xy: 2, 2
+  size: 461, 479
+  orig: 463, 479
+  offset: 0, 0
+  index: -1
