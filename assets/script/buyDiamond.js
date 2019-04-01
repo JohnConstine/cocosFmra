@@ -26,12 +26,14 @@ cc.Class({
             function(res) {
                 var data = JSON.parse(res);
                 if (data.state) {
+
                     var childs=cc.find('7/scroll/view/content',_this.node).children;
                     for (var i=0;i<childs.length;i++) {
-                        cc.find('num',childs[i]).getComponent(cc.Label).string='购买'+data.data[i]+'个钻石';
+                        cc.find('num',childs[i]).getComponent(cc.Label).string='购买'+data.data[i]+'个钻石'; //购买钻石
                         cc.find('btn/Label',childs[i]).getComponent(cc.Label).string=data.data[i]+'元';
                         cc.find('btn',childs[i]).getComponent(cc.Button).clickEvents[0].customEventData=data.data[i];
                     }
+                    
                 } else {
                     tips(data.message);
                 }
